@@ -1,4 +1,4 @@
-# recall-sheets
+# Recall Sheets
 a software-based recall sheet tool
 
 See "Reamping from Live to Outboard Analog Hardware" https://youtu.be/1c_d5aL2GG4 and "Tools/Toolchains to support a creative workflow in Live" https://youtu.be/TxuOqwieCZ8 for more info. 
