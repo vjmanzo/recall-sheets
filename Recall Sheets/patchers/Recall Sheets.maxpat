@@ -3,8 +3,8 @@
 		"fileversion" : 1,
 		"appversion" : 		{
 			"major" : 8,
-			"minor" : 3,
-			"revision" : 1,
+			"minor" : 5,
+			"revision" : 2,
 			"architecture" : "x64",
 			"modernui" : 1
 		}
@@ -332,7 +332,7 @@
 					"patching_rect" : [ 1275.0, 561.5, 154.0, 59.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 4.0, 79.0, 749.0, 19.0 ],
-					"text" : "\"Media:/Git Repos/_GitHub/recall-sheets/Recall Sheets/patchers/_master_preset_backups/2023-1-19_12-55-9-AM preset_2.maxpresets\"",
+					"text" : "\"Media:/Git Repos/_GitHub/recall-sheets/Recall Sheets/patchers/_master_preset_backups/2023-3-5_12-39-9-AM preset_2.maxpresets\"",
 					"textcolor" : [ 0.384313725490196, 0.384313725490196, 0.384313725490196, 1.0 ]
 				}
 
@@ -558,7 +558,7 @@
 					"patching_rect" : [ 1104.5, 561.5, 167.0, 59.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 4.0, 68.0, 744.0, 19.0 ],
-					"text" : "\"Media:/Git Repos/_GitHub/recall-sheets/Recall Sheets/patchers/_master_preset_backups/2023-1-19_12-55-9-AM preset_1.maxpresets\"",
+					"text" : "\"Media:/Git Repos/_GitHub/recall-sheets/Recall Sheets/patchers/_master_preset_backups/2023-3-5_12-39-9-AM preset_1.maxpresets\"",
 					"textcolor" : [ 0.384313725490196, 0.384313725490196, 0.384313725490196, 1.0 ]
 				}
 
@@ -918,7 +918,7 @@
 						}
 , 						{
 							"number" : 10,
-							"data" : [ 36, "obj-131", "textedit", "set", 57.0, 140.0, 140.0, 140.0, 141.0, 12.0, 140.0, 12.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 36, "obj-127", "textedit", "set", 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 12.0, 12.0, 8.0, 8.0, 8.0, 8.0, 8.0, 8.0, 8.0, 8.0, 6.0, 6.0, 6.0, 6.0, 6.0, 6.0, 6.0, 6.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 36, "obj-123", "textedit", "set", 6.0, 0.0, 0.0, 0.0, 5.599999904632568, 3.0, 5.999599959996, 0.0, 0.0, 0.0, 6.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 36, "obj-143", "textedit", "set", 9.0, 2.0, 3.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 36, "obj-139", "textedit", "set", 9.0, 2.0, 3.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 36, "obj-135", "textedit", "set", 9.0, 2.0, 3.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 36, "obj-151", "textedit", "set", 9.0, 2.0, 3.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 36, "obj-119", "textedit", "set", 13.0, 1.0, 4.0, 4.0, 4.0, 5.0, 22.0, 1.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 37, "obj-3", "textedit", "set", 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 36, "obj-147", "textedit", "set", 9.0, 2.0, 3.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0 ]
+							"data" : [ 5, "obj-131", "textedit", "restoretext", "57. 140. 140. 140. 141. 12. 140. 12. 0. 0. 0. 0. 1. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.", 5, "obj-127", "textedit", "restoretext", "1. 1. 1. 1. 1. 1. 1. 1. 12. 12. 8. 8. 8. 8. 8. 8. 8. 8. 6. 6. 6. 6. 6. 6. 6. 6. 0. 0. 0. 0. 0. 0.", 5, "obj-123", "textedit", "restoretext", "6. 0. 0. 0. 5.6 3. 5.9996 0. 0. 0. 6. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.", 5, "obj-143", "textedit", "restoretext", "9. 2. 3. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.", 5, "obj-139", "textedit", "restoretext", "9. 2. 3. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.", 5, "obj-135", "textedit", "restoretext", "9. 2. 3. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.", 5, "obj-151", "textedit", "restoretext", "9. 2. 3. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.", 5, "obj-119", "textedit", "restoretext", "13. 1. 4. 4. 4. 5. 22. 1. 0. 1. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.", 5, "obj-3", "textedit", "restoretext", "0. 0. 0. 0. 0. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.", 5, "obj-147", "textedit", "restoretext", "9. 2. 3. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0." ]
 						}
 , 						{
 							"number" : 88,
@@ -2645,6 +2645,7 @@
 				"box" : 				{
 					"bordercolor" : [ 1.0, 0.619607843137255, 0.984313725490196, 1.0 ],
 					"id" : "obj-27",
+					"linecount" : 2,
 					"maxclass" : "textedit",
 					"numinlets" : 1,
 					"numoutlets" : 4,
@@ -2653,7 +2654,7 @@
 					"patching_rect" : [ 288.0, 1007.0, 254.0, 104.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 366.0, 336.0, 1909.0, 23.0 ],
-					"text" : "about 3 - 4db of gain reduction"
+					"text" : "about 3 - 4db of gain reduction - for  sparse, acoustic mixes, increase HPF to 185"
 				}
 
 			}
@@ -2768,7 +2769,7 @@
 				"box" : 				{
 					"bordercolor" : [ 1.0, 0.619607843137255, 0.984313725490196, 1.0 ],
 					"id" : "obj-22",
-					"linecount" : 2,
+					"linecount" : 3,
 					"maxclass" : "textedit",
 					"numinlets" : 1,
 					"numoutlets" : 4,
@@ -2777,7 +2778,7 @@
 					"patching_rect" : [ 551.666666666666742, 426.25, 286.750000000000057, 135.75 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 4.0, 33.0, 749.0, 65.0 ],
-					"text" : "analog summing into DAW , out to STAM back into DAW , then out to Fatso and API"
+					"text" : "three-stage reamping approach: analog summing into DAW, out to STAM back into DAW, then out to Fatso and API"
 				}
 
 			}
@@ -2830,7 +2831,7 @@
 						}
 , 						{
 							"number" : 10,
-							"data" : [ 22, "obj-22", "textedit", "set", "analog", "summing", "into", "DAW", "\u002c", "out", "to", "STAM", "back", "into", "DAW", "\u002c", "then", "out", "to", "Fatso", "and", "API", 8, "obj-23", "textedit", "set", "2-Bus", "Mix", "Settings", "Pre-Master", 5, "obj-100", "number", "int", 0, 5, "obj-91", "number", "int", 0, 5, "obj-82", "number", "int", 0, 5, "obj-73", "number", "int", 0, 5, "obj-64", "number", "int", 0, 5, "obj-55", "number", "int", 0, 5, "obj-44", "number", "int", 4, 5, "obj-36", "number", "int", 3, 5, "obj-28", "number", "int", 2, 5, "obj-12", "number", "int", 6, 4, "obj-54", "textedit", "set", 4, "obj-63", "textedit", "set", 4, "obj-99", "textedit", "set", 4, "obj-90", "textedit", "set", 4, "obj-81", "textedit", "set", 4, "obj-72", "textedit", "set", 4, "obj-43", "textedit", "set", 4, "obj-35", "textedit", "set", 11, "obj-27", "textedit", "set", "about", 3, "-", "4db", "of", "gain", "reduction", 8, "obj-15", "textedit", "set", "analog", "summing", "from", "DAW" ]
+							"data" : [ 5, "obj-22", "textedit", "restoretext", "three-stage reamping approach: analog summing into DAW, out to STAM back into DAW, then out to Fatso and API", 5, "obj-23", "textedit", "restoretext", "2-Bus Mix Settings Pre-Master", 5, "obj-100", "number", "int", 0, 5, "obj-91", "number", "int", 0, 5, "obj-82", "number", "int", 0, 5, "obj-73", "number", "int", 0, 5, "obj-64", "number", "int", 0, 5, "obj-55", "number", "int", 0, 5, "obj-44", "number", "int", 4, 5, "obj-36", "number", "int", 3, 5, "obj-28", "number", "int", 2, 5, "obj-12", "number", "int", 6, 5, "obj-54", "textedit", "restoretext", "", 5, "obj-63", "textedit", "restoretext", "", 5, "obj-99", "textedit", "restoretext", "", 5, "obj-90", "textedit", "restoretext", "", 5, "obj-81", "textedit", "restoretext", "", 5, "obj-72", "textedit", "restoretext", "", 5, "obj-43", "textedit", "restoretext", "", 5, "obj-35", "textedit", "restoretext", "", 5, "obj-27", "textedit", "restoretext", "about 3 - 4db of gain reduction - for  sparse, acoustic mixes, increase HPF to 185", 5, "obj-15", "textedit", "restoretext", "analog summing from DAW" ]
 						}
 , 						{
 							"number" : 88,
@@ -5029,13 +5030,6 @@
 				"implicit" : 1
 			}
 , 			{
-				"name" : "Dangerous_2-Bus.maxpat",
-				"bootpath" : "/Volumes/Media/Git Repos/_GitHub/recall-sheets/Recall Sheets/patchers",
-				"patcherrelativepath" : ".",
-				"type" : "JSON",
-				"implicit" : 1
-			}
-, 			{
 				"name" : "STAM_SA-4000_MKII.maxpat",
 				"bootpath" : "/Volumes/Media/Git Repos/_GitHub/recall-sheets/Recall Sheets/patchers",
 				"patcherrelativepath" : ".",
@@ -5043,7 +5037,21 @@
 				"implicit" : 1
 			}
 , 			{
+				"name" : "UA_6176.maxpat",
+				"bootpath" : "/Volumes/Media/Git Repos/_GitHub/recall-sheets/Recall Sheets/patchers",
+				"patcherrelativepath" : ".",
+				"type" : "JSON",
+				"implicit" : 1
+			}
+, 			{
 				"name" : "UBK_Fatso.maxpat",
+				"bootpath" : "/Volumes/Media/Git Repos/_GitHub/recall-sheets/Recall Sheets/patchers",
+				"patcherrelativepath" : ".",
+				"type" : "JSON",
+				"implicit" : 1
+			}
+, 			{
+				"name" : "Vintech_x73i.maxpat",
 				"bootpath" : "/Volumes/Media/Git Repos/_GitHub/recall-sheets/Recall Sheets/patchers",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
