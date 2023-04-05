@@ -4,7 +4,7 @@
 		"appversion" : 		{
 			"major" : 8,
 			"minor" : 5,
-			"revision" : 2,
+			"revision" : 3,
 			"architecture" : "x64",
 			"modernui" : 1
 		}
@@ -332,7 +332,7 @@
 					"patching_rect" : [ 1275.0, 561.5, 154.0, 59.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 4.0, 79.0, 749.0, 19.0 ],
-					"text" : "\"Media:/Git Repos/_GitHub/recall-sheets/Recall Sheets/patchers/_master_preset_backups/2023-3-5_12-39-9-AM preset_2.maxpresets\"",
+					"text" : "\"Media:/Git Repos/_GitHub/recall-sheets/Recall Sheets/patchers/_master_preset_backups/2023-4-5_6-19-34-PM preset_2.maxpresets\"",
 					"textcolor" : [ 0.384313725490196, 0.384313725490196, 0.384313725490196, 1.0 ]
 				}
 
@@ -558,7 +558,7 @@
 					"patching_rect" : [ 1104.5, 561.5, 167.0, 59.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 4.0, 68.0, 744.0, 19.0 ],
-					"text" : "\"Media:/Git Repos/_GitHub/recall-sheets/Recall Sheets/patchers/_master_preset_backups/2023-3-5_12-39-9-AM preset_1.maxpresets\"",
+					"text" : "\"Media:/Git Repos/_GitHub/recall-sheets/Recall Sheets/patchers/_master_preset_backups/2023-4-5_6-19-34-PM preset_1.maxpresets\"",
 					"textcolor" : [ 0.384313725490196, 0.384313725490196, 0.384313725490196, 1.0 ]
 				}
 
@@ -843,13 +843,12 @@
 , 			{
 				"box" : 				{
 					"id" : "obj-105",
-					"linecount" : 2,
 					"maxclass" : "message",
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 396.666666666666686, 321.0, 50.0, 35.0 ],
-					"text" : "store 10"
+					"patching_rect" : [ 396.666666666666686, 321.0, 50.0, 22.0 ],
+					"text" : "store 5"
 				}
 
 			}
@@ -890,11 +889,11 @@
 					"presentation_rect" : [ 755.0, 57.0, 1505.0, 43.0 ],
 					"preset_data" : [ 						{
 							"number" : 1,
-							"data" : [ 36, "obj-131", "textedit", "set", 9.0, 2.0, 3.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 36, "obj-127", "textedit", "set", 9.0, 2.0, 3.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 36, "obj-123", "textedit", "set", 2.5, 1.0, 4.0, 1.0, 5.5, 3.0, 2.5002500250025, 1.0, 4.0, 1.0, 5.5, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 36, "obj-143", "textedit", "set", 9.0, 2.0, 3.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 36, "obj-139", "textedit", "set", 9.0, 2.0, 3.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 36, "obj-135", "textedit", "set", 9.0, 2.0, 3.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 36, "obj-151", "textedit", "set", 9.0, 2.0, 3.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 36, "obj-119", "textedit", "set", 0.0, 0.0, 1.0, 1.0, 0.0, 0.0, 1.0, 1.0, 9.0, 9.0, 12.0, 11.0, 11.0, 9.0, 12.0, 11.0, 11.0, 9.0, 7.0, 5.0, 7.0, 7.0, 7.0, 5.0, 7.0, 7.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 36, "obj-3", "textedit", "set", 19.0, 3.0, 4.0, 1.0, 4.0, 15.0, 13.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 36, "obj-147", "textedit", "set", 9.0, 2.0, 3.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0 ]
+							"data" : [ 5, "obj-131", "textedit", "restoretext", "9. 2. 3. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.", 5, "obj-3", "textedit", "restoretext", "20. 3. 4. 1. 4. 4. 13. 1. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.", 5, "obj-119", "textedit", "restoretext", "0. 0. 1. 1. 0. 0. 1. 1. 9. 9. 12. 11. 11. 9. 12. 11. 11. 9. 7. 5. 7. 7. 7. 5. 7. 7. 0. 0. 0. 0. 0. 0.", 5, "obj-127", "textedit", "restoretext", "9. 2. 3. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.", 5, "obj-123", "textedit", "restoretext", "2.5 1. 4. 1. 5.5 3. 2.50025 1. 4. 1. 5.5 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.", 5, "obj-143", "textedit", "restoretext", "9. 2. 3. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.", 5, "obj-139", "textedit", "restoretext", "9. 2. 3. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.", 5, "obj-135", "textedit", "restoretext", "9. 2. 3. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.", 5, "obj-151", "textedit", "restoretext", "9. 2. 3. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.", 5, "obj-147", "textedit", "restoretext", "9. 2. 3. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0." ]
 						}
 , 						{
 							"number" : 2,
-							"data" : [ 36, "obj-131", "textedit", "set", 9.0, 2.0, 3.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 36, "obj-127", "textedit", "set", 9.0, 2.0, 3.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 36, "obj-123", "textedit", "set", 2.5, 1.0, 5.0, 1.0, 5.5, 3.0, 2.5002500250025, 1.0, 5.0, 1.0, 5.5, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 36, "obj-143", "textedit", "set", 9.0, 2.0, 3.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 36, "obj-139", "textedit", "set", 9.0, 2.0, 3.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 36, "obj-135", "textedit", "set", 9.0, 2.0, 3.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 36, "obj-151", "textedit", "set", 9.0, 2.0, 3.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 36, "obj-119", "textedit", "set", 0.0, 1.0, 1.0, 1.0, 0.0, 1.0, 1.0, 1.0, 9.0, 9.0, 12.0, 11.0, 11.0, 9.0, 12.0, 11.0, 11.0, 9.0, 7.0, 5.0, 7.0, 7.0, 7.0, 5.0, 7.0, 7.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 36, "obj-3", "textedit", "set", 19.0, 3.0, 4.0, 1.0, 4.0, 15.0, 13.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 36, "obj-147", "textedit", "set", 9.0, 2.0, 3.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0 ]
+							"data" : [ 5, "obj-131", "textedit", "restoretext", "9. 2. 3. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.", 5, "obj-3", "textedit", "restoretext", "20. 3. 4. 1. 4. 4. 13. 1. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.", 5, "obj-119", "textedit", "restoretext", "0. 1. 1. 1. 0. 1. 1. 1. 9. 9. 12. 11. 11. 9. 12. 11. 11. 9. 7. 5. 7. 7. 7. 5. 7. 7. 0. 0. 0. 0. 0. 0.", 5, "obj-127", "textedit", "restoretext", "9. 2. 3. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.", 5, "obj-123", "textedit", "restoretext", "2.5 1. 5. 1. 5.5 3. 2.50025 1. 5. 1. 5.5 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.", 5, "obj-143", "textedit", "restoretext", "9. 2. 3. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.", 5, "obj-139", "textedit", "restoretext", "9. 2. 3. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.", 5, "obj-135", "textedit", "restoretext", "9. 2. 3. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.", 5, "obj-151", "textedit", "restoretext", "9. 2. 3. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.", 5, "obj-147", "textedit", "restoretext", "9. 2. 3. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0." ]
 						}
 , 						{
 							"number" : 3,
@@ -902,7 +901,7 @@
 						}
 , 						{
 							"number" : 4,
-							"data" : [ 36, "obj-131", "textedit", "set", 9.0, 2.0, 3.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 36, "obj-127", "textedit", "set", 9.0, 2.0, 3.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 36, "obj-123", "textedit", "set", 1.0, 0.0, 1.0, 1.0, 0.0, 1.0, 1.0, 1.0, 12.0, 12.0, 11.0, 8.0, 1.0, 12.0, 11.0, 8.0, 1.0, 12.0, 7.0, 4.0, 9.0, 6.0, 7.0, 4.0, 9.0, 6.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 36, "obj-143", "textedit", "set", 9.0, 2.0, 3.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 36, "obj-139", "textedit", "set", 9.0, 2.0, 3.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 36, "obj-135", "textedit", "set", 9.0, 2.0, 3.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 36, "obj-151", "textedit", "set", 9.0, 2.0, 3.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 36, "obj-119", "textedit", "set", 1.0, 0.0, 1.0, 1.0, 1.0, 0.0, 1.0, 1.0, 9.0, 9.0, 12.0, 10.0, 10.0, 11.0, 12.0, 10.0, 10.0, 11.0, 1.0, 7.0, 8.0, 6.0, 1.0, 7.0, 8.0, 6.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 36, "obj-3", "textedit", "set", 2.0, 7.0, 4.0, 1.0, 6.0, 3.0, 2.000200020002, 7.0, 4.0, 1.0, 6.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 36, "obj-147", "textedit", "set", 9.0, 2.0, 3.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0 ]
+							"data" : [ 5, "obj-131", "textedit", "restoretext", "9. 2. 3. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.", 5, "obj-3", "textedit", "restoretext", "2. 7. 4. 1. 6. 3. 2.0002 7. 4. 1. 6. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.", 5, "obj-119", "textedit", "restoretext", "1. 0. 1. 1. 1. 0. 1. 1. 9. 9. 12. 10. 10. 11. 12. 10. 10. 11. 4. 7. 8. 6. 4. 7. 8. 6. 0. 0. 0. 0. 0. 0.", 5, "obj-127", "textedit", "restoretext", "9. 2. 3. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.", 5, "obj-123", "textedit", "restoretext", "1. 0. 1. 1. 0. 1. 1. 1. 12. 12. 11. 8. 1. 12. 11. 8. 1. 12. 7. 4. 9. 6. 7. 4. 9. 6. 0. 0. 0. 0. 0. 0.", 5, "obj-143", "textedit", "restoretext", "9. 2. 3. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.", 5, "obj-139", "textedit", "restoretext", "9. 2. 3. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.", 5, "obj-135", "textedit", "restoretext", "9. 2. 3. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.", 5, "obj-151", "textedit", "restoretext", "9. 2. 3. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.", 5, "obj-147", "textedit", "restoretext", "9. 2. 3. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0." ]
 						}
 , 						{
 							"number" : 5,
@@ -910,15 +909,19 @@
 						}
 , 						{
 							"number" : 6,
-							"data" : [ 36, "obj-131", "textedit", "set", 0.0, 0.0, 0.0, 0.0, 0.0, 3.0, 2.000200020002, 3.0, 5.0, 1.0, 6.5, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 36, "obj-127", "textedit", "set", 1.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 12.0, 12.0, 0.0, 0.0, 0.0, 0.0, 8.0, 8.0, 8.0, 8.0, 6.0, 7.0, 7.0, 6.0, 6.0, 6.0, 6.0, 6.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 36, "obj-123", "textedit", "set", 2.0, 3.0, 0.0, 1.0, 6.0, 3.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 36, "obj-143", "textedit", "set", 9.0, 2.0, 3.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 36, "obj-139", "textedit", "set", 9.0, 2.0, 3.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 36, "obj-135", "textedit", "set", 9.0, 2.0, 3.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 36, "obj-151", "textedit", "set", 9.0, 2.0, 3.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 36, "obj-119", "textedit", "set", 57.0, 140.0, 0.0, 140.0, 279.0, 12.0, 140.0, 22.0, 1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 37, "obj-3", "textedit", "set", 5.494579439252336, 7.46, 14.33, 10.15, 10.15, 12.24, 10.15, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 36, "obj-147", "textedit", "set", 9.0, 2.0, 3.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0 ]
+							"data" : [ 5, "obj-131", "textedit", "restoretext", "0. 0. 0. 0. 0. 3. 2.0002 3. 5. 1. 6.5 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.", 5, "obj-127", "textedit", "restoretext", "1. 0. 1. 0. 0. 0. 0. 0. 12. 12. 0. 0. 0. 0. 8. 8. 8. 8. 6. 7. 7. 6. 6. 6. 6. 6. 0. 0. 0. 0. 0. 0.", 5, "obj-123", "textedit", "restoretext", "2. 3. 0. 1. 6. 3. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.", 5, "obj-143", "textedit", "restoretext", "9. 2. 3. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.", 5, "obj-139", "textedit", "restoretext", "9. 2. 3. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.", 5, "obj-135", "textedit", "restoretext", "9. 2. 3. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.", 5, "obj-151", "textedit", "restoretext", "9. 2. 3. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.", 5, "obj-119", "textedit", "restoretext", "57. 140. 0. 140. 279. 12. 140. 22. 1. 0. 0. 0. 1. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.", 5, "obj-3", "textedit", "restoretext", "5.494579 7.46 14.33 10.15 10.15 12.24 10.15 0. 1. 0. 0. 0. 1. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.", 5, "obj-147", "textedit", "restoretext", "9. 2. 3. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0." ]
 						}
 , 						{
 							"number" : 7,
-							"data" : [ 36, "obj-127", "textedit", "set", 9.0, 2.0, 3.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 36, "obj-123", "textedit", "set", 1.0, 0.0, 1.0, 1.0, 0.0, 1.0, 1.0, 1.0, 12.0, 12.0, 11.0, 8.0, 1.0, 12.0, 11.0, 8.0, 1.0, 12.0, 7.0, 4.0, 9.0, 6.0, 7.0, 4.0, 9.0, 6.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 36, "obj-143", "textedit", "set", 9.0, 2.0, 3.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 36, "obj-139", "textedit", "set", 9.0, 2.0, 3.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 36, "obj-135", "textedit", "set", 9.0, 2.0, 3.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 36, "obj-151", "textedit", "set", 9.0, 2.0, 3.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 36, "obj-131", "textedit", "set", 9.0, 2.0, 3.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 36, "obj-119", "textedit", "set", 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 7.0, 7.0, 12.0, 10.0, 10.0, 11.0, 12.0, 10.0, 10.0, 11.0, 4.0, 7.0, 8.0, 7.0, 4.0, 7.0, 8.0, 7.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 36, "obj-3", "textedit", "set", 2.0, 7.0, 4.0, 1.0, 6.0, 3.0, 2.000200020002, 7.0, 4.0, 1.0, 6.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 36, "obj-147", "textedit", "set", 9.0, 2.0, 3.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0 ]
+							"data" : [ 5, "obj-131", "textedit", "restoretext", "9. 2. 3. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.", 5, "obj-3", "textedit", "restoretext", "2. 7. 4. 1. 6. 3. 2.0002 7. 4. 1. 6. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.", 5, "obj-119", "textedit", "restoretext", "1. 1. 1. 1. 1. 1. 1. 1. 7. 7. 12. 10. 10. 11. 12. 10. 10. 11. 4. 7. 8. 7. 4. 7. 8. 7. 0. 0. 0. 0. 0. 0.", 5, "obj-127", "textedit", "restoretext", "9. 2. 3. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.", 5, "obj-123", "textedit", "restoretext", "1. 0. 1. 1. 0. 1. 1. 1. 12. 12. 11. 8. 1. 12. 11. 8. 1. 12. 7. 4. 9. 6. 7. 4. 9. 6. 0. 0. 0. 0. 0. 0.", 5, "obj-143", "textedit", "restoretext", "9. 2. 3. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.", 5, "obj-139", "textedit", "restoretext", "9. 2. 3. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.", 5, "obj-135", "textedit", "restoretext", "9. 2. 3. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.", 5, "obj-151", "textedit", "restoretext", "9. 2. 3. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.", 5, "obj-147", "textedit", "restoretext", "9. 2. 3. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0." ]
+						}
+, 						{
+							"number" : 8,
+							"data" : [ 5, "obj-131", "textedit", "restoretext", "9. 2. 3. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.", 5, "obj-3", "textedit", "restoretext", "2. 3. 4. 1. 6. 3. 2.0002 3. 4. 1. 6. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.", 5, "obj-119", "textedit", "restoretext", "1. 1. 1. 1. 1. 1. 1. 1. 7. 7. 12. 10. 10. 11. 12. 10. 10. 11. 4. 7. 8. 7. 4. 7. 8. 7. 0. 0. 0. 0. 0. 0.", 5, "obj-127", "textedit", "restoretext", "9. 2. 3. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.", 5, "obj-123", "textedit", "restoretext", "1. 0. 1. 1. 0. 1. 1. 1. 12. 12. 11. 8. 1. 12. 11. 8. 1. 12. 7. 4. 9. 6. 7. 4. 9. 6. 0. 0. 0. 0. 0. 0.", 5, "obj-143", "textedit", "restoretext", "9. 2. 3. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.", 5, "obj-139", "textedit", "restoretext", "9. 2. 3. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.", 5, "obj-135", "textedit", "restoretext", "9. 2. 3. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.", 5, "obj-151", "textedit", "restoretext", "9. 2. 3. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.", 5, "obj-147", "textedit", "restoretext", "9. 2. 3. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0." ]
 						}
 , 						{
 							"number" : 10,
-							"data" : [ 5, "obj-131", "textedit", "restoretext", "57. 140. 140. 140. 141. 12. 140. 12. 0. 0. 0. 0. 1. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.", 5, "obj-127", "textedit", "restoretext", "1. 1. 1. 1. 1. 1. 1. 1. 12. 12. 8. 8. 8. 8. 8. 8. 8. 8. 6. 6. 6. 6. 6. 6. 6. 6. 0. 0. 0. 0. 0. 0.", 5, "obj-123", "textedit", "restoretext", "6. 0. 0. 0. 5.6 3. 5.9996 0. 0. 0. 6. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.", 5, "obj-143", "textedit", "restoretext", "9. 2. 3. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.", 5, "obj-139", "textedit", "restoretext", "9. 2. 3. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.", 5, "obj-135", "textedit", "restoretext", "9. 2. 3. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.", 5, "obj-151", "textedit", "restoretext", "9. 2. 3. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.", 5, "obj-119", "textedit", "restoretext", "13. 1. 4. 4. 4. 5. 22. 1. 0. 1. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.", 5, "obj-3", "textedit", "restoretext", "0. 0. 0. 0. 0. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.", 5, "obj-147", "textedit", "restoretext", "9. 2. 3. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0." ]
+							"data" : [ 5, "obj-131", "textedit", "restoretext", "57. 140. 140. 140. 141. 12. 140. 12. 0. 0. 0. 0. 1. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.", 5, "obj-3", "textedit", "restoretext", "0. 0. 0. 0. 12. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.", 5, "obj-119", "textedit", "restoretext", "13. 1. 4. 4. 4. 5. 22. 1. 0. 1. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.", 5, "obj-127", "textedit", "restoretext", "1. 1. 1. 1. 1. 1. 1. 1. 12. 12. 8. 8. 8. 8. 8. 8. 8. 8. 6. 6. 6. 6. 6. 6. 6. 6. 0. 0. 0. 0. 0. 0.", 5, "obj-123", "textedit", "restoretext", "6. 0. 0. 0. 5.6 3. 5.9996 0. 0. 0. 6. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.", 5, "obj-143", "textedit", "restoretext", "9. 2. 3. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.", 5, "obj-139", "textedit", "restoretext", "9. 2. 3. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.", 5, "obj-135", "textedit", "restoretext", "9. 2. 3. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.", 5, "obj-151", "textedit", "restoretext", "9. 2. 3. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.", 5, "obj-147", "textedit", "restoretext", "9. 2. 3. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0." ]
 						}
 , 						{
 							"number" : 88,
@@ -1297,14 +1300,14 @@
 					"bordercolor" : [ 0.349019607843137, 0.349019607843137, 0.349019607843137, 0.0 ],
 					"fontsize" : 9.0,
 					"id" : "obj-131",
-					"linecount" : 3,
+					"linecount" : 2,
 					"maxclass" : "textedit",
 					"numinlets" : 1,
 					"numoutlets" : 4,
 					"outlettype" : [ "", "int", "", "" ],
 					"parameter_enable" : 0,
 					"patching_rect" : [ 1461.0, 1812.0, 171.0, 29.0 ],
-					"text" : "57. 140. 140. 140. 141. 12. 140. 12. 0. 0. 0. 0. 1. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.",
+					"text" : "9. 2. 3. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.",
 					"textcolor" : [ 0.384313725490196, 0.384313725490196, 0.384313725490196, 1.0 ]
 				}
 
@@ -1359,7 +1362,7 @@
 					"outlettype" : [ "", "int", "", "" ],
 					"parameter_enable" : 0,
 					"patching_rect" : [ 1283.0, 1528.0, 171.0, 29.0 ],
-					"text" : "1. 1. 1. 1. 1. 1. 1. 1. 12. 12. 8. 8. 8. 8. 8. 8. 8. 8. 6. 6. 6. 6. 6. 6. 6. 6. 0. 0. 0. 0. 0. 0.",
+					"text" : "1. 0. 1. 1. 1. 0. 1. 1. 9. 9. 0. 10. 11. 8. 0. 10. 11. 8. 1. 7. 7. 6. 1. 7. 7. 6. 0. 0. 0. 0. 0. 0.",
 					"textcolor" : [ 0.384313725490196, 0.384313725490196, 0.384313725490196, 1.0 ]
 				}
 
@@ -1414,7 +1417,7 @@
 					"outlettype" : [ "", "int", "", "" ],
 					"parameter_enable" : 0,
 					"patching_rect" : [ 1283.0, 1283.0, 171.0, 29.0 ],
-					"text" : "6. 0. 0. 0. 5.6 3. 5.9996 0. 0. 0. 6. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.",
+					"text" : "1. 0. 1. 1. 0. 1. 1. 1. 12. 12. 11. 8. 1. 12. 11. 8. 1. 12. 7. 4. 9. 6. 7. 4. 9. 6. 0. 0. 0. 0. 0. 0.",
 					"textcolor" : [ 0.384313725490196, 0.384313725490196, 0.384313725490196, 1.0 ]
 				}
 
@@ -1468,8 +1471,8 @@
 					"numoutlets" : 4,
 					"outlettype" : [ "", "int", "", "" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 1277.0, 1023.0, 171.0, 29.0 ],
-					"text" : "13. 1. 4. 4. 4. 5. 22. 1. 0. 1. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.",
+					"patching_rect" : [ 1297.0, 1020.0, 171.0, 29.0 ],
+					"text" : "1. 0. 1. 1. 1. 0. 1. 1. 9. 9. 12. 10. 10. 11. 12. 10. 10. 11. 1. 7. 8. 7. 1. 7. 8. 7. 0. 0. 0. 0. 0. 0.",
 					"textcolor" : [ 0.384313725490196, 0.384313725490196, 0.384313725490196, 1.0 ]
 				}
 
@@ -1518,7 +1521,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
-					"patching_rect" : [ 1277.0, 833.0, 59.0, 22.0 ],
+					"patching_rect" : [ 1311.0, 854.0, 59.0, 22.0 ],
 					"text" : "route text"
 				}
 
@@ -1535,8 +1538,8 @@
 					"numoutlets" : 4,
 					"outlettype" : [ "", "int", "", "" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 1277.0, 782.0, 213.0, 39.0 ],
-					"text" : "0. 0. 0. 0. 0. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.",
+					"patching_rect" : [ 1311.0, 793.0, 213.0, 39.0 ],
+					"text" : "2.5 7. 4. 1. 5.5 3. 2.50025 7. 4. 1. 5.5 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.",
 					"textcolor" : [ 0.384313725490196, 0.384313725490196, 0.384313725490196, 1.0 ]
 				}
 
@@ -2387,7 +2390,8 @@
 					"parameter_enable" : 0,
 					"patching_rect" : [ 288.0, 1510.0, 254.0, 104.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 369.0, 792.0, 1909.0, 23.0 ]
+					"presentation_rect" : [ 369.0, 792.0, 1909.0, 23.0 ],
+					"text" : "Alternate EQ settings used on 4a Leads"
 				}
 
 			}
@@ -2600,11 +2604,11 @@
 					"lockeddragscroll" : 0,
 					"lockedsize" : 0,
 					"maxclass" : "bpatcher",
-					"name" : "UBK_Fatso.maxpat",
+					"name" : "blank.maxpat",
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"offset" : [ 0.0, 0.0 ],
-					"outlettype" : [ "clear" ],
+					"outlettype" : [ "" ],
 					"patching_rect" : [ 557.0, 1190.0, 697.0, 177.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 12.0, 598.0, 2297.0, 177.0 ],
@@ -2654,7 +2658,7 @@
 					"patching_rect" : [ 288.0, 1007.0, 254.0, 104.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 366.0, 336.0, 1909.0, 23.0 ],
-					"text" : "about 3 - 4db of gain reduction - for  sparse, acoustic mixes, increase HPF to 185"
+					"text" : ".5x range engaged -- Lo setting is shelfing everything below 50"
 				}
 
 			}
@@ -2734,7 +2738,7 @@
 					"lockeddragscroll" : 0,
 					"lockedsize" : 0,
 					"maxclass" : "bpatcher",
-					"name" : "STAM_SA-4000_MKII.maxpat",
+					"name" : "API_5500.maxpat",
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"offset" : [ 0.0, 0.0 ],
@@ -2761,7 +2765,7 @@
 					"patching_rect" : [ 551.666666666666742, 393.5, 286.750000000000057, 30.75 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 301.25, 3.0, 382.75, 28.0 ],
-					"text" : "2-Bus Mix Settings Pre-Master"
+					"text" : "Fatal Fire Lead Electric Guitar"
 				}
 
 			}
@@ -2769,7 +2773,6 @@
 				"box" : 				{
 					"bordercolor" : [ 1.0, 0.619607843137255, 0.984313725490196, 1.0 ],
 					"id" : "obj-22",
-					"linecount" : 3,
 					"maxclass" : "textedit",
 					"numinlets" : 1,
 					"numoutlets" : 4,
@@ -2778,7 +2781,7 @@
 					"patching_rect" : [ 551.666666666666742, 426.25, 286.750000000000057, 135.75 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 4.0, 33.0, 749.0, 65.0 ],
-					"text" : "three-stage reamping approach: analog summing into DAW, out to STAM back into DAW, then out to Fatso and API"
+					"text" : "Parker Fly recorded direct to RME audio interface"
 				}
 
 			}
@@ -2795,11 +2798,11 @@
 					"presentation_rect" : [ 755.0, 3.0, 1505.0, 52.0 ],
 					"preset_data" : [ 						{
 							"number" : 1,
-							"data" : [ 13, "obj-22", "textedit", "set", "settings", "from", "Addictive", "Drums", "with", "drums", "separated", "from", "cymbals", 8, "obj-23", "textedit", "set", "Fatal", "Fire", "Drum", "Reamp", 5, "obj-100", "number", "int", 0, 5, "obj-91", "number", "int", 0, 5, "obj-82", "number", "int", 0, 5, "obj-73", "number", "int", 0, 5, "obj-64", "number", "int", 0, 5, "obj-55", "number", "int", 0, 5, "obj-44", "number", "int", 0, 5, "obj-36", "number", "int", 3, 5, "obj-28", "number", "int", 4, 5, "obj-12", "number", "int", 2, 4, "obj-54", "textedit", "set", 4, "obj-63", "textedit", "set", 4, "obj-99", "textedit", "set", 4, "obj-90", "textedit", "set", 4, "obj-81", "textedit", "set", 4, "obj-72", "textedit", "set", 4, "obj-43", "textedit", "set", 16, "obj-35", "textedit", "set", "going", "for", "about", "3db", "of", "gain", "reduction", "and", "in", "the", "comfy", "zone", 16, "obj-27", "textedit", "set", ".5x", "range", "and", "pushing", "the", "highs", "and", "lows", "into", "the", "UBK", "Fatso", 11, "obj-15", "textedit", "set", "going", "for", "about", "3db", "of", "gain", "reduction" ]
+							"data" : [ 5, "obj-22", "textedit", "restoretext", "settings from Addictive Drums with drums separated from cymbals", 5, "obj-23", "textedit", "restoretext", "Fatal Fire Drum Reamp", 5, "obj-100", "number", "int", 0, 5, "obj-91", "number", "int", 0, 5, "obj-82", "number", "int", 0, 5, "obj-73", "number", "int", 0, 5, "obj-64", "number", "int", 0, 5, "obj-55", "number", "int", 0, 5, "obj-44", "number", "int", 0, 5, "obj-36", "number", "int", 3, 5, "obj-28", "number", "int", 4, 5, "obj-12", "number", "int", 2, 5, "obj-54", "textedit", "restoretext", "", 5, "obj-63", "textedit", "restoretext", "", 5, "obj-99", "textedit", "restoretext", "", 5, "obj-90", "textedit", "restoretext", "", 5, "obj-81", "textedit", "restoretext", "", 5, "obj-72", "textedit", "restoretext", "", 5, "obj-43", "textedit", "restoretext", "", 5, "obj-35", "textedit", "restoretext", "going for about 3db of gain reduction and in the comfy zone", 5, "obj-27", "textedit", "restoretext", ".5x range and pushing the highs and lows into the UBK Fatso", 5, "obj-15", "textedit", "restoretext", "going for about 3db of gain reduction" ]
 						}
 , 						{
 							"number" : 2,
-							"data" : [ 40, "obj-22", "textedit", "set", "settings", "from", "Addictive", "Drums", "with", "cymbals", "separated", "from", "the", "drums", "group.", "Same", "chain", "as", "FF", "Drum", "settings", "plus", "high", "shelf", "on", "API", 5500, "is", "engaged", "and", "the", "warmth", "is", "increased", "by", "one", "on", "the", "UBK", "Fatso.", 9, "obj-23", "textedit", "set", "Fatal", "Fire", "Drum", "Reamp", "Cymbals", 5, "obj-100", "number", "int", 0, 5, "obj-91", "number", "int", 0, 5, "obj-82", "number", "int", 0, 5, "obj-73", "number", "int", 0, 5, "obj-64", "number", "int", 0, 5, "obj-55", "number", "int", 0, 5, "obj-44", "number", "int", 0, 5, "obj-36", "number", "int", 3, 5, "obj-28", "number", "int", 4, 5, "obj-12", "number", "int", 2, 4, "obj-54", "textedit", "set", 4, "obj-63", "textedit", "set", 4, "obj-99", "textedit", "set", 4, "obj-90", "textedit", "set", 4, "obj-81", "textedit", "set", 4, "obj-72", "textedit", "set", 4, "obj-43", "textedit", "set", 18, "obj-35", "textedit", "set", "about", "3db", "of", "gain", "reduction", "and", "a", "little", "more", "warmth", "on", "the", "top", "end", 11, "obj-27", "textedit", "set", "high", "shelf", "engaged", "and", ".5x", "range", "engaged", 9, "obj-15", "textedit", "set", "about", "3db", "of", "gain", "reduction" ]
+							"data" : [ 5, "obj-22", "textedit", "restoretext", "settings from Addictive Drums with cymbals separated from the drums group. Same chain as FF Drum settings plus high shelf on API 5500 is engaged and the warmth is increased by one on the UBK Fatso.", 5, "obj-23", "textedit", "restoretext", "Fatal Fire Drum Reamp Cymbals", 5, "obj-100", "number", "int", 0, 5, "obj-91", "number", "int", 0, 5, "obj-82", "number", "int", 0, 5, "obj-73", "number", "int", 0, 5, "obj-64", "number", "int", 0, 5, "obj-55", "number", "int", 0, 5, "obj-44", "number", "int", 0, 5, "obj-36", "number", "int", 3, 5, "obj-28", "number", "int", 4, 5, "obj-12", "number", "int", 2, 5, "obj-54", "textedit", "restoretext", "", 5, "obj-63", "textedit", "restoretext", "", 5, "obj-99", "textedit", "restoretext", "", 5, "obj-90", "textedit", "restoretext", "", 5, "obj-81", "textedit", "restoretext", "", 5, "obj-72", "textedit", "restoretext", "", 5, "obj-43", "textedit", "restoretext", "", 5, "obj-35", "textedit", "restoretext", "about 3db of gain reduction and a little more warmth on the top end", 5, "obj-27", "textedit", "restoretext", "high shelf engaged and .5x range engaged", 5, "obj-15", "textedit", "restoretext", "about 3db of gain reduction" ]
 						}
 , 						{
 							"number" : 3,
@@ -2807,7 +2810,7 @@
 						}
 , 						{
 							"number" : 4,
-							"data" : [ 12, "obj-22", "textedit", "set", "Parker", "Fly", "recorded", "direct", "to", "RME", "audio", "interface", 9, "obj-23", "textedit", "set", "Fatal", "Fire", "Overdriven", "Electric", "Guitar", 5, "obj-100", "number", "int", 0, 5, "obj-91", "number", "int", 0, 5, "obj-82", "number", "int", 0, 5, "obj-73", "number", "int", 0, 5, "obj-64", "number", "int", 0, 5, "obj-55", "number", "int", 0, 5, "obj-44", "number", "int", 0, 5, "obj-36", "number", "int", 0, 5, "obj-28", "number", "int", 4, 5, "obj-12", "number", "int", 3, 4, "obj-54", "textedit", "set", 4, "obj-63", "textedit", "set", 4, "obj-99", "textedit", "set", 4, "obj-90", "textedit", "set", 4, "obj-81", "textedit", "set", 4, "obj-72", "textedit", "set", 4, "obj-43", "textedit", "set", 4, "obj-35", "textedit", "set", 15, "obj-27", "textedit", "set", ".5x", "range", "engaged", "--", "Lo", "setting", "is", "shelfing", "everything", "below", 50, 15, "obj-15", "textedit", "set", "going", "for", "about", "3db", "of", "gain", "reduction", "in", "the", "compressor", "section" ]
+							"data" : [ 5, "obj-22", "textedit", "restoretext", "Parker Fly recorded direct to RME audio interface", 5, "obj-23", "textedit", "restoretext", "Fatal Fire Overdriven Electric Guitar", 5, "obj-100", "number", "int", 0, 5, "obj-91", "number", "int", 0, 5, "obj-82", "number", "int", 0, 5, "obj-73", "number", "int", 0, 5, "obj-64", "number", "int", 0, 5, "obj-55", "number", "int", 0, 5, "obj-44", "number", "int", 0, 5, "obj-36", "number", "int", 0, 5, "obj-28", "number", "int", 4, 5, "obj-12", "number", "int", 3, 5, "obj-54", "textedit", "restoretext", "", 5, "obj-63", "textedit", "restoretext", "", 5, "obj-99", "textedit", "restoretext", "", 5, "obj-90", "textedit", "restoretext", "", 5, "obj-81", "textedit", "restoretext", "", 5, "obj-72", "textedit", "restoretext", "", 5, "obj-43", "textedit", "restoretext", "", 5, "obj-35", "textedit", "restoretext", "", 5, "obj-27", "textedit", "restoretext", ".5x range engaged -- Lo setting is shelfing everything below 50", 5, "obj-15", "textedit", "restoretext", "going for about 3db of gain reduction in the compressor section" ]
 						}
 , 						{
 							"number" : 5,
@@ -2815,15 +2818,15 @@
 						}
 , 						{
 							"number" : 6,
-							"data" : [ 18, "obj-22", "textedit", "set", "Vocals", "recorded", "with", "a", "Neumann", "M149", "through", "a", "UA", 6176, "with", "modest", "4:1", "compression", 8, "obj-23", "textedit", "set", "Fatal", "Fire", "Lead", "Vocals", 5, "obj-100", "number", "int", 0, 5, "obj-91", "number", "int", 0, 5, "obj-82", "number", "int", 0, 5, "obj-73", "number", "int", 0, 5, "obj-64", "number", "int", 0, 5, "obj-55", "number", "int", 3, 5, "obj-44", "number", "int", 4, 5, "obj-36", "number", "int", 3, 5, "obj-28", "number", "int", 5, 5, "obj-12", "number", "int", 1, 8, "obj-54", "textedit", "set", "in", "to", "Fatso", "right", 4, "obj-63", "textedit", "set", 4, "obj-99", "textedit", "set", 4, "obj-90", "textedit", "set", 4, "obj-81", "textedit", "set", 4, "obj-72", "textedit", "set", 13, "obj-43", "textedit", "set", "out", "from", "API", "left", "back", "into", "Fatso", "right", "(1x)", 24, "obj-35", "textedit", "set", "out", "from", "Fatso", "left", "into", "API", 5500, "left", "(no", "warmth", "on", "way", "in)", "about", "3dB", "of", "gain", "reduction", "as", "usual", 21, "obj-27", "textedit", "set", "gain", "at", "0/30", "into", "Fatso", "left", "(this", "device", "is", "mostly", "to", "utilize", "the", "high-pass", "filter", "at", "160)", 16, "obj-15", "textedit", "set", "M149", "Neumann", "M149", "(while", "tracking—all", "other", "devices", "in", "chain", "reamped", "in", "post)" ]
+							"data" : [ 5, "obj-22", "textedit", "restoretext", "Vocals recorded with a Neumann M149 through a UA 6176 with modest 4:1 compression", 5, "obj-23", "textedit", "restoretext", "Fatal Fire Lead Vocals", 5, "obj-100", "number", "int", 0, 5, "obj-91", "number", "int", 0, 5, "obj-82", "number", "int", 0, 5, "obj-73", "number", "int", 0, 5, "obj-64", "number", "int", 0, 5, "obj-55", "number", "int", 3, 5, "obj-44", "number", "int", 4, 5, "obj-36", "number", "int", 3, 5, "obj-28", "number", "int", 5, 5, "obj-12", "number", "int", 1, 5, "obj-54", "textedit", "restoretext", "in to Fatso right", 5, "obj-63", "textedit", "restoretext", "", 5, "obj-99", "textedit", "restoretext", "", 5, "obj-90", "textedit", "restoretext", "", 5, "obj-81", "textedit", "restoretext", "", 5, "obj-72", "textedit", "restoretext", "", 5, "obj-43", "textedit", "restoretext", "out from API left back into Fatso right (1x)", 5, "obj-35", "textedit", "restoretext", "out from Fatso left into API 5500 left (no warmth on way in) about 3dB of gain reduction as usual", 5, "obj-27", "textedit", "restoretext", "gain at 0/30 into Fatso left (this device is mostly to utilize the high-pass filter at 160)", 5, "obj-15", "textedit", "restoretext", "M149 Neumann M149 (while tracking—all other devices in chain reamped in post)" ]
 						}
 , 						{
 							"number" : 7,
-							"data" : [ 12, "obj-22", "textedit", "set", "Parker", "Fly", "recorded", "direct", "to", "RME", "audio", "interface", 8, "obj-23", "textedit", "set", "Fatal", "Fire", "Acoustic", "Guitar", 5, "obj-100", "number", "int", 0, 5, "obj-91", "number", "int", 0, 5, "obj-82", "number", "int", 0, 5, "obj-73", "number", "int", 0, 5, "obj-64", "number", "int", 0, 5, "obj-55", "number", "int", 0, 5, "obj-44", "number", "int", 0, 5, "obj-36", "number", "int", 0, 5, "obj-28", "number", "int", 4, 5, "obj-12", "number", "int", 3, 4, "obj-99", "textedit", "set", 4, "obj-90", "textedit", "set", 4, "obj-81", "textedit", "set", 4, "obj-72", "textedit", "set", 4, "obj-63", "textedit", "set", 4, "obj-54", "textedit", "set", 4, "obj-43", "textedit", "set", 4, "obj-35", "textedit", "set", 7, "obj-27", "textedit", "set", ".5x", "range", "engaged", 15, "obj-15", "textedit", "set", "going", "for", "about", "3db", "of", "gain", "reduction", "in", "the", "compressor", "section" ]
+							"data" : [ 5, "obj-22", "textedit", "restoretext", "Stereo acoustic guitar recorded with multiple mics to RME audio interface", 5, "obj-23", "textedit", "restoretext", "Fatal Fire Acoustic Guitar", 5, "obj-100", "number", "int", 0, 5, "obj-91", "number", "int", 0, 5, "obj-82", "number", "int", 0, 5, "obj-73", "number", "int", 0, 5, "obj-64", "number", "int", 0, 5, "obj-55", "number", "int", 0, 5, "obj-44", "number", "int", 0, 5, "obj-36", "number", "int", 0, 5, "obj-28", "number", "int", 4, 5, "obj-12", "number", "int", 3, 5, "obj-54", "textedit", "restoretext", "", 5, "obj-63", "textedit", "restoretext", "", 5, "obj-99", "textedit", "restoretext", "", 5, "obj-90", "textedit", "restoretext", "", 5, "obj-81", "textedit", "restoretext", "", 5, "obj-72", "textedit", "restoretext", "", 5, "obj-43", "textedit", "restoretext", "", 5, "obj-35", "textedit", "restoretext", "", 5, "obj-27", "textedit", "restoretext", ".5x range engaged", 5, "obj-15", "textedit", "restoretext", "going for about 3db of gain reduction in the compressor section" ]
 						}
 , 						{
 							"number" : 8,
-							"data" : [ 12, "obj-22", "textedit", "set", "Parker", "Fly", "recorded", "direct", "to", "RME", "audio", "interface", 9, "obj-23", "textedit", "set", "Fatal", "Fire", "Lead", "Electric", "Guitar", 5, "obj-100", "number", "int", 0, 5, "obj-91", "number", "int", 0, 5, "obj-82", "number", "int", 0, 5, "obj-73", "number", "int", 0, 5, "obj-64", "number", "int", 0, 5, "obj-55", "number", "int", 0, 5, "obj-44", "number", "int", 0, 5, "obj-36", "number", "int", 0, 5, "obj-28", "number", "int", 4, 5, "obj-12", "number", "int", 3, 4, "obj-99", "textedit", "set", 4, "obj-90", "textedit", "set", 4, "obj-81", "textedit", "set", 4, "obj-72", "textedit", "set", 4, "obj-63", "textedit", "set", 4, "obj-54", "textedit", "set", 4, "obj-43", "textedit", "set", 4, "obj-35", "textedit", "set", 7, "obj-27", "textedit", "set", ".5x", "range", "engaged", 15, "obj-15", "textedit", "set", "going", "for", "about", "3db", "of", "gain", "reduction", "in", "the", "compressor", "section" ]
+							"data" : [ 5, "obj-22", "textedit", "restoretext", "DAW synths reamped audio interface", 5, "obj-23", "textedit", "restoretext", "Fatal Fire Lead Electric Guitar", 5, "obj-100", "number", "int", 0, 5, "obj-91", "number", "int", 0, 5, "obj-82", "number", "int", 0, 5, "obj-73", "number", "int", 0, 5, "obj-64", "number", "int", 0, 5, "obj-55", "number", "int", 0, 5, "obj-44", "number", "int", 0, 5, "obj-36", "number", "int", 0, 5, "obj-28", "number", "int", 4, 5, "obj-12", "number", "int", 3, 5, "obj-54", "textedit", "restoretext", "", 5, "obj-63", "textedit", "restoretext", "", 5, "obj-99", "textedit", "restoretext", "", 5, "obj-90", "textedit", "restoretext", "", 5, "obj-81", "textedit", "restoretext", "", 5, "obj-72", "textedit", "restoretext", "", 5, "obj-43", "textedit", "restoretext", "", 5, "obj-35", "textedit", "restoretext", "", 5, "obj-27", "textedit", "restoretext", ".5x range engaged", 5, "obj-15", "textedit", "restoretext", "going for about 3db of gain reduction in the compressor section" ]
 						}
 , 						{
 							"number" : 9,
@@ -2874,6 +2877,7 @@
 				"box" : 				{
 					"bordercolor" : [ 1.0, 0.619607843137255, 0.984313725490196, 1.0 ],
 					"id" : "obj-15",
+					"linecount" : 2,
 					"maxclass" : "textedit",
 					"numinlets" : 1,
 					"numoutlets" : 4,
@@ -2882,7 +2886,7 @@
 					"patching_rect" : [ 288.0, 768.0, 254.0, 104.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 362.0, 102.0, 1909.0, 23.0 ],
-					"text" : "analog summing from DAW"
+					"text" : "going for about 3db of gain reduction in the compressor section"
 				}
 
 			}
@@ -2962,7 +2966,7 @@
 					"lockeddragscroll" : 0,
 					"lockedsize" : 0,
 					"maxclass" : "bpatcher",
-					"name" : "Dangerous_2-Bus.maxpat",
+					"name" : "UBK_Fatso.maxpat",
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"offset" : [ 0.0, 0.0 ],
@@ -3118,6 +3122,14 @@
  ],
 		"lines" : [ 			{
 				"patchline" : 				{
+					"destination" : [ "obj-3", 0 ],
+					"midpoints" : [ 566.5, 882.0, 1273.5, 882.0, 1273.5, 782.0, 1320.5, 782.0 ],
+					"source" : [ "obj-1", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
 					"destination" : [ "obj-9", 0 ],
 					"source" : [ "obj-10", 0 ]
 				}
@@ -3181,6 +3193,13 @@
 			}
 , 			{
 				"patchline" : 				{
+					"destination" : [ "obj-1", 1 ],
+					"source" : [ "obj-108", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
 					"destination" : [ "obj-22", 0 ],
 					"midpoints" : [ 859.916666666666742, 418.875, 561.166666666666742, 418.875 ],
 					"order" : 0,
@@ -3200,7 +3219,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-3", 0 ],
-					"midpoints" : [ 1320.5, 773.5, 1286.5, 773.5 ],
+					"midpoints" : [ 1320.5, 773.5, 1320.5, 773.5 ],
 					"source" : [ "obj-110", 0 ]
 				}
 
@@ -3373,7 +3392,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-59", 1 ],
-					"midpoints" : [ 1286.5, 1879.0, 1265.5, 1879.0, 1265.5, 1700.0, 1265.5, 1700.0 ],
+					"midpoints" : [ 1286.5, 1879.0, 1288.0, 1879.0, 1288.0, 1689.0, 1265.5, 1689.0 ],
 					"source" : [ "obj-130", 0 ]
 				}
 
@@ -4228,7 +4247,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-119", 0 ],
-					"midpoints" : [ 566.5, 1121.0, 1262.5, 1121.0, 1262.5, 1012.0, 1286.5, 1012.0 ],
+					"midpoints" : [ 566.5, 1121.0, 1262.5, 1121.0, 1262.5, 1012.0, 1306.5, 1012.0 ],
 					"source" : [ "obj-32", 0 ]
 				}
 
@@ -4322,8 +4341,8 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-119", 0 ],
-					"midpoints" : [ 465.166666666666686, 792.0, 1286.5, 792.0 ],
-					"order" : 7,
+					"midpoints" : [ 465.166666666666686, 792.0, 1306.5, 792.0 ],
+					"order" : 2,
 					"source" : [ "obj-5", 0 ]
 				}
 
@@ -4332,7 +4351,7 @@
 				"patchline" : 				{
 					"destination" : [ "obj-123", 0 ],
 					"midpoints" : [ 465.166666666666686, 922.0, 1292.5, 922.0 ],
-					"order" : 2,
+					"order" : 4,
 					"source" : [ "obj-5", 0 ]
 				}
 
@@ -4341,7 +4360,7 @@
 				"patchline" : 				{
 					"destination" : [ "obj-127", 0 ],
 					"midpoints" : [ 465.166666666666686, 1044.5, 1292.5, 1044.5 ],
-					"order" : 1,
+					"order" : 3,
 					"source" : [ "obj-5", 0 ]
 				}
 
@@ -4359,7 +4378,7 @@
 				"patchline" : 				{
 					"destination" : [ "obj-135", 0 ],
 					"midpoints" : [ 465.166666666666686, 1327.5, 1291.5, 1327.5 ],
-					"order" : 5,
+					"order" : 7,
 					"source" : [ "obj-5", 0 ]
 				}
 
@@ -4368,7 +4387,7 @@
 				"patchline" : 				{
 					"destination" : [ "obj-139", 0 ],
 					"midpoints" : [ 465.166666666666686, 1476.0, 1291.5, 1476.0 ],
-					"order" : 4,
+					"order" : 6,
 					"source" : [ "obj-5", 0 ]
 				}
 
@@ -4377,7 +4396,7 @@
 				"patchline" : 				{
 					"destination" : [ "obj-143", 0 ],
 					"midpoints" : [ 465.166666666666686, 1616.0, 1291.5, 1616.0 ],
-					"order" : 3,
+					"order" : 5,
 					"source" : [ "obj-5", 0 ]
 				}
 
@@ -4395,7 +4414,7 @@
 				"patchline" : 				{
 					"destination" : [ "obj-151", 0 ],
 					"midpoints" : [ 465.166666666666686, 1934.0, 1289.5, 1934.0 ],
-					"order" : 6,
+					"order" : 8,
 					"source" : [ "obj-5", 0 ]
 				}
 
@@ -4403,8 +4422,8 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-3", 0 ],
-					"midpoints" : [ 465.166666666666686, 671.5, 1286.5, 671.5 ],
-					"order" : 8,
+					"midpoints" : [ 465.166666666666686, 671.5, 1320.5, 671.5 ],
+					"order" : 1,
 					"source" : [ "obj-5", 0 ]
 				}
 
@@ -4644,147 +4663,91 @@
 			}
  ],
 		"parameters" : 		{
-			"obj-1::obj-136" : [ "live.numbox[32]", "live.numbox", 0 ],
-			"obj-1::obj-146" : [ "live.toggle", "live.toggle", 0 ],
-			"obj-1::obj-15" : [ "live.numbox[13]", "live.toggle", 0 ],
-			"obj-1::obj-154" : [ "live.toggle[1]", "live.toggle", 0 ],
-			"obj-1::obj-157" : [ "live.toggle[2]", "live.toggle", 0 ],
-			"obj-1::obj-163" : [ "live.toggle[22]", "live.toggle", 0 ],
-			"obj-1::obj-17" : [ "live.numbox[44]", "live.numbox", 0 ],
-			"obj-1::obj-20" : [ "live.numbox[1]", "live.toggle", 0 ],
-			"obj-1::obj-22" : [ "live.text[38]", "live.text", 0 ],
-			"obj-1::obj-23" : [ "live.toggle[8]", "live.toggle", 0 ],
-			"obj-1::obj-24" : [ "live.text[37]", "live.text", 0 ],
-			"obj-1::obj-25" : [ "live.text[35]", "live.text", 0 ],
-			"obj-1::obj-26" : [ "live.text[36]", "live.text", 0 ],
-			"obj-1::obj-28" : [ "live.toggle[44]", "live.toggle", 0 ],
-			"obj-1::obj-38" : [ "live.toggle[10]", "live.toggle", 0 ],
-			"obj-1::obj-40" : [ "live.toggle[11]", "live.toggle", 0 ],
-			"obj-1::obj-42" : [ "live.numbox[10]", "live.toggle", 0 ],
-			"obj-1::obj-45" : [ "live.toggle[13]", "live.toggle", 0 ],
-			"obj-1::obj-48" : [ "live.toggle[14]", "live.toggle", 0 ],
-			"obj-1::obj-5" : [ "live.toggle[6]", "live.toggle", 0 ],
-			"obj-1::obj-50" : [ "live.numbox[87]", "live.toggle", 0 ],
-			"obj-1::obj-52" : [ "live.toggle[16]", "live.toggle", 0 ],
+			"obj-1::obj-128" : [ "live.numbox[87]", "live.numbox", 0 ],
+			"obj-1::obj-19" : [ "live.numbox[24]", "live.numbox", 0 ],
+			"obj-1::obj-27" : [ "live.numbox[39]", "live.numbox", 0 ],
+			"obj-1::obj-270" : [ "live.numbox[93]", "live.numbox", 0 ],
+			"obj-1::obj-278" : [ "live.numbox[2]", "live.numbox", 0 ],
+			"obj-1::obj-301" : [ "live.numbox[28]", "live.numbox", 0 ],
+			"obj-1::obj-428" : [ "live.numbox[31]", "live.numbox[4]", 0 ],
+			"obj-1::obj-461" : [ "live.numbox[140]", "live.numbox[4]", 0 ],
+			"obj-1::obj-494" : [ "live.numbox[6]", "live.numbox[4]", 0 ],
+			"obj-1::obj-520" : [ "live.numbox[91]", "live.numbox[4]", 0 ],
+			"obj-1::obj-550" : [ "live.numbox[139]", "live.numbox[4]", 0 ],
+			"obj-1::obj-571" : [ "live.numbox[92]", "live.numbox[4]", 0 ],
 			"obj-1::obj-6" : [ "live.text[1]", "live.text", 0 ],
 			"obj-1::obj-7" : [ "live.text[2]", "live.text", 0 ],
-			"obj-32::obj-113" : [ "live.numbox[109]", "live.numbox", 0 ],
-			"obj-32::obj-130" : [ "live.numbox[138]", "live.numbox", 0 ],
-			"obj-32::obj-133" : [ "live.numbox[105]", "live.numbox", 0 ],
-			"obj-32::obj-136" : [ "live.numbox[108]", "live.numbox", 0 ],
-			"obj-32::obj-139" : [ "live.numbox[107]", "live.numbox", 0 ],
-			"obj-32::obj-142" : [ "live.numbox[106]", "live.numbox", 0 ],
+			"obj-32::obj-101" : [ "live.numbox[5]", "live.numbox", 0 ],
+			"obj-32::obj-104" : [ "live.numbox[29]", "live.numbox", 0 ],
+			"obj-32::obj-107" : [ "live.numbox[67]", "live.numbox", 0 ],
+			"obj-32::obj-110" : [ "live.numbox[8]", "live.numbox", 0 ],
+			"obj-32::obj-113" : [ "live.numbox[53]", "live.numbox", 0 ],
+			"obj-32::obj-13" : [ "live.numbox", "live.numbox", 0 ],
+			"obj-32::obj-130" : [ "live.numbox[42]", "live.numbox", 0 ],
+			"obj-32::obj-133" : [ "live.numbox[11]", "live.numbox", 0 ],
+			"obj-32::obj-136" : [ "live.numbox[116]", "live.numbox", 0 ],
+			"obj-32::obj-139" : [ "live.numbox[52]", "live.numbox", 0 ],
+			"obj-32::obj-142" : [ "live.numbox[14]", "live.numbox", 0 ],
 			"obj-32::obj-145" : [ "live.numbox[15]", "live.numbox", 0 ],
-			"obj-32::obj-17" : [ "live.numbox[16]", "live.numbox", 0 ],
+			"obj-32::obj-146" : [ "live.toggle", "live.toggle", 0 ],
+			"obj-32::obj-154" : [ "live.toggle[1]", "live.toggle", 0 ],
+			"obj-32::obj-157" : [ "live.toggle[10]", "live.toggle", 0 ],
+			"obj-32::obj-163" : [ "live.toggle[4]", "live.toggle", 0 ],
+			"obj-32::obj-166" : [ "live.toggle[7]", "live.toggle", 0 ],
+			"obj-32::obj-169" : [ "live.toggle[8]", "live.toggle", 0 ],
 			"obj-32::obj-18" : [ "live.numbox[47]", "live.numbox", 0 ],
-			"obj-32::obj-22" : [ "live.text[8]", "live.text", 0 ],
+			"obj-32::obj-185" : [ "live.toggle[23]", "live.toggle", 0 ],
+			"obj-32::obj-22" : [ "live.text[43]", "live.text", 0 ],
 			"obj-32::obj-24" : [ "live.text[12]", "live.text", 0 ],
 			"obj-32::obj-25" : [ "live.text[17]", "live.text", 0 ],
 			"obj-32::obj-26" : [ "live.text[3]", "live.text", 0 ],
+			"obj-32::obj-35" : [ "live.numbox[94]", "live.numbox", 0 ],
+			"obj-32::obj-44" : [ "live.numbox[66]", "live.numbox", 0 ],
+			"obj-32::obj-55" : [ "live.numbox[60]", "live.numbox", 0 ],
 			"obj-32::obj-6" : [ "live.text[7]", "live.text", 0 ],
-			"obj-32::obj-65" : [ "live.numbox[112]", "live.numbox", 0 ],
+			"obj-32::obj-60" : [ "live.toggle[11]", "live.toggle", 0 ],
 			"obj-32::obj-7" : [ "live.text[23]", "live.text", 0 ],
-			"obj-32::obj-71" : [ "live.numbox[115]", "live.numbox", 0 ],
-			"obj-40::obj-128" : [ "live.numbox[81]", "live.numbox", 0 ],
-			"obj-40::obj-19" : [ "live.numbox[101]", "live.numbox", 0 ],
-			"obj-40::obj-27" : [ "live.numbox[102]", "live.numbox", 0 ],
-			"obj-40::obj-270" : [ "live.numbox[110]", "live.numbox", 0 ],
-			"obj-40::obj-278" : [ "live.numbox[103]", "live.numbox", 0 ],
-			"obj-40::obj-301" : [ "live.numbox[72]", "live.numbox", 0 ],
-			"obj-40::obj-428" : [ "live.numbox[98]", "live.numbox[4]", 0 ],
-			"obj-40::obj-461" : [ "live.numbox[100]", "live.numbox[4]", 0 ],
-			"obj-40::obj-494" : [ "live.numbox[99]", "live.numbox[4]", 0 ],
-			"obj-40::obj-520" : [ "live.numbox[97]", "live.numbox[4]", 0 ],
-			"obj-40::obj-550" : [ "live.numbox[73]", "live.numbox[4]", 0 ],
-			"obj-40::obj-571" : [ "live.numbox[74]", "live.numbox[4]", 0 ],
-			"obj-40::obj-6" : [ "live.text[25]", "live.text", 0 ],
-			"obj-40::obj-7" : [ "live.text[13]", "live.text", 0 ],
+			"obj-32::obj-92" : [ "live.numbox[63]", "live.numbox", 0 ],
+			"obj-32::obj-95" : [ "live.numbox[70]", "live.numbox", 0 ],
+			"obj-32::obj-98" : [ "live.numbox[44]", "live.numbox", 0 ],
 			"obj-48::obj-101" : [ "live.numbox[80]", "live.numbox", 0 ],
-			"obj-48::obj-104" : [ "live.numbox[95]", "live.numbox", 0 ],
-			"obj-48::obj-107" : [ "live.numbox[64]", "live.numbox", 0 ],
+			"obj-48::obj-104" : [ "live.numbox[152]", "live.numbox", 0 ],
+			"obj-48::obj-107" : [ "live.numbox[84]", "live.numbox", 0 ],
 			"obj-48::obj-110" : [ "live.numbox[79]", "live.numbox", 0 ],
-			"obj-48::obj-113" : [ "live.numbox[69]", "live.numbox", 0 ],
-			"obj-48::obj-13" : [ "live.numbox[96]", "live.numbox", 0 ],
+			"obj-48::obj-113" : [ "live.numbox[131]", "live.numbox", 0 ],
+			"obj-48::obj-13" : [ "live.numbox[153]", "live.numbox", 0 ],
 			"obj-48::obj-130" : [ "live.numbox[56]", "live.numbox", 0 ],
 			"obj-48::obj-133" : [ "live.numbox[75]", "live.numbox", 0 ],
-			"obj-48::obj-136" : [ "live.numbox[61]", "live.numbox", 0 ],
-			"obj-48::obj-139" : [ "live.numbox[33]", "live.numbox", 0 ],
-			"obj-48::obj-142" : [ "live.numbox[62]", "live.numbox", 0 ],
-			"obj-48::obj-145" : [ "live.numbox[50]", "live.numbox", 0 ],
+			"obj-48::obj-136" : [ "live.numbox[151]", "live.numbox", 0 ],
+			"obj-48::obj-139" : [ "live.numbox[130]", "live.numbox", 0 ],
+			"obj-48::obj-142" : [ "live.numbox[129]", "live.numbox", 0 ],
+			"obj-48::obj-145" : [ "live.numbox[122]", "live.numbox", 0 ],
 			"obj-48::obj-146" : [ "live.toggle[43]", "live.toggle", 0 ],
 			"obj-48::obj-154" : [ "live.toggle[21]", "live.toggle", 0 ],
 			"obj-48::obj-157" : [ "live.toggle[34]", "live.toggle", 0 ],
-			"obj-48::obj-163" : [ "live.toggle[35]", "live.toggle", 0 ],
+			"obj-48::obj-163" : [ "live.toggle[19]", "live.toggle", 0 ],
 			"obj-48::obj-166" : [ "live.toggle[45]", "live.toggle", 0 ],
 			"obj-48::obj-169" : [ "live.toggle[33]", "live.toggle", 0 ],
-			"obj-48::obj-18" : [ "live.numbox[55]", "live.numbox", 0 ],
-			"obj-48::obj-185" : [ "live.toggle[9]", "live.toggle", 0 ],
+			"obj-48::obj-18" : [ "live.numbox[99]", "live.numbox", 0 ],
+			"obj-48::obj-185" : [ "live.toggle[38]", "live.toggle", 0 ],
 			"obj-48::obj-22" : [ "live.text[41]", "live.text", 0 ],
 			"obj-48::obj-24" : [ "live.text[40]", "live.text", 0 ],
 			"obj-48::obj-25" : [ "live.text[42]", "live.text", 0 ],
 			"obj-48::obj-26" : [ "live.text[39]", "live.text", 0 ],
-			"obj-48::obj-35" : [ "live.numbox[78]", "live.numbox", 0 ],
-			"obj-48::obj-44" : [ "live.numbox[77]", "live.numbox", 0 ],
+			"obj-48::obj-35" : [ "live.numbox[101]", "live.numbox", 0 ],
+			"obj-48::obj-44" : [ "live.numbox[22]", "live.numbox", 0 ],
 			"obj-48::obj-55" : [ "live.numbox[27]", "live.numbox", 0 ],
 			"obj-48::obj-6" : [ "live.text[32]", "live.text", 0 ],
 			"obj-48::obj-60" : [ "live.toggle[18]", "live.toggle", 0 ],
 			"obj-48::obj-7" : [ "live.text[11]", "live.text", 0 ],
 			"obj-48::obj-92" : [ "live.numbox[57]", "live.numbox", 0 ],
-			"obj-48::obj-95" : [ "live.numbox[111]", "live.numbox", 0 ],
-			"obj-48::obj-98" : [ "live.numbox[76]", "live.numbox", 0 ],
+			"obj-48::obj-95" : [ "live.numbox[74]", "live.numbox", 0 ],
+			"obj-48::obj-98" : [ "live.numbox[32]", "live.numbox", 0 ],
 			"parameterbanks" : 			{
 
 			}
 ,
 			"parameter_overrides" : 			{
-				"obj-1::obj-136" : 				{
-					"parameter_longname" : "live.numbox[32]"
-				}
-,
-				"obj-1::obj-15" : 				{
-					"parameter_longname" : "live.numbox[13]"
-				}
-,
-				"obj-1::obj-163" : 				{
-					"parameter_longname" : "live.toggle[22]"
-				}
-,
-				"obj-1::obj-17" : 				{
-					"parameter_longname" : "live.numbox[44]"
-				}
-,
-				"obj-1::obj-20" : 				{
-					"parameter_longname" : "live.numbox[1]"
-				}
-,
-				"obj-1::obj-22" : 				{
-					"parameter_longname" : "live.text[38]"
-				}
-,
-				"obj-1::obj-24" : 				{
-					"parameter_longname" : "live.text[37]"
-				}
-,
-				"obj-1::obj-25" : 				{
-					"parameter_longname" : "live.text[35]"
-				}
-,
-				"obj-1::obj-26" : 				{
-					"parameter_longname" : "live.text[36]"
-				}
-,
-				"obj-1::obj-28" : 				{
-					"parameter_longname" : "live.toggle[44]"
-				}
-,
-				"obj-1::obj-42" : 				{
-					"parameter_longname" : "live.numbox[10]"
-				}
-,
-				"obj-1::obj-50" : 				{
-					"parameter_longname" : "live.numbox[87]"
-				}
-,
 				"obj-1::obj-6" : 				{
 					"parameter_longname" : "live.text[1]"
 				}
@@ -4794,43 +4757,47 @@
 				}
 ,
 				"obj-32::obj-113" : 				{
-					"parameter_longname" : "live.numbox[109]"
+					"parameter_longname" : "live.numbox[53]"
 				}
 ,
 				"obj-32::obj-130" : 				{
-					"parameter_longname" : "live.numbox[138]"
+					"parameter_longname" : "live.numbox[42]"
 				}
 ,
 				"obj-32::obj-133" : 				{
-					"parameter_longname" : "live.numbox[105]"
+					"parameter_longname" : "live.numbox[11]"
 				}
 ,
 				"obj-32::obj-136" : 				{
-					"parameter_longname" : "live.numbox[108]"
+					"parameter_longname" : "live.numbox[116]"
 				}
 ,
 				"obj-32::obj-139" : 				{
-					"parameter_longname" : "live.numbox[107]"
+					"parameter_longname" : "live.numbox[52]"
 				}
 ,
 				"obj-32::obj-142" : 				{
-					"parameter_longname" : "live.numbox[106]"
+					"parameter_longname" : "live.numbox[14]"
 				}
 ,
 				"obj-32::obj-145" : 				{
 					"parameter_longname" : "live.numbox[15]"
 				}
 ,
-				"obj-32::obj-17" : 				{
-					"parameter_longname" : "live.numbox[16]"
+				"obj-32::obj-166" : 				{
+					"parameter_longname" : "live.toggle[7]"
 				}
 ,
 				"obj-32::obj-18" : 				{
 					"parameter_longname" : "live.numbox[47]"
 				}
 ,
+				"obj-32::obj-185" : 				{
+					"parameter_longname" : "live.toggle[23]"
+				}
+,
 				"obj-32::obj-22" : 				{
-					"parameter_longname" : "live.text[8]"
+					"parameter_longname" : "live.text[43]"
 				}
 ,
 				"obj-32::obj-24" : 				{
@@ -4845,76 +4812,16 @@
 					"parameter_longname" : "live.text[3]"
 				}
 ,
+				"obj-32::obj-44" : 				{
+					"parameter_longname" : "live.numbox[66]"
+				}
+,
 				"obj-32::obj-6" : 				{
 					"parameter_longname" : "live.text[7]"
 				}
 ,
-				"obj-32::obj-65" : 				{
-					"parameter_longname" : "live.numbox[112]"
-				}
-,
 				"obj-32::obj-7" : 				{
 					"parameter_longname" : "live.text[23]"
-				}
-,
-				"obj-32::obj-71" : 				{
-					"parameter_longname" : "live.numbox[115]"
-				}
-,
-				"obj-40::obj-128" : 				{
-					"parameter_longname" : "live.numbox[81]"
-				}
-,
-				"obj-40::obj-19" : 				{
-					"parameter_longname" : "live.numbox[101]"
-				}
-,
-				"obj-40::obj-27" : 				{
-					"parameter_longname" : "live.numbox[102]"
-				}
-,
-				"obj-40::obj-270" : 				{
-					"parameter_longname" : "live.numbox[110]"
-				}
-,
-				"obj-40::obj-278" : 				{
-					"parameter_longname" : "live.numbox[103]"
-				}
-,
-				"obj-40::obj-301" : 				{
-					"parameter_longname" : "live.numbox[72]"
-				}
-,
-				"obj-40::obj-428" : 				{
-					"parameter_longname" : "live.numbox[98]"
-				}
-,
-				"obj-40::obj-461" : 				{
-					"parameter_longname" : "live.numbox[100]"
-				}
-,
-				"obj-40::obj-494" : 				{
-					"parameter_longname" : "live.numbox[99]"
-				}
-,
-				"obj-40::obj-520" : 				{
-					"parameter_longname" : "live.numbox[97]"
-				}
-,
-				"obj-40::obj-550" : 				{
-					"parameter_longname" : "live.numbox[73]"
-				}
-,
-				"obj-40::obj-571" : 				{
-					"parameter_longname" : "live.numbox[74]"
-				}
-,
-				"obj-40::obj-6" : 				{
-					"parameter_longname" : "live.text[25]"
-				}
-,
-				"obj-40::obj-7" : 				{
-					"parameter_longname" : "live.text[13]"
 				}
 ,
 				"obj-48::obj-101" : 				{
@@ -4922,19 +4829,23 @@
 				}
 ,
 				"obj-48::obj-104" : 				{
-					"parameter_longname" : "live.numbox[95]"
+					"parameter_longname" : "live.numbox[152]"
 				}
 ,
 				"obj-48::obj-107" : 				{
-					"parameter_longname" : "live.numbox[64]"
+					"parameter_longname" : "live.numbox[84]"
 				}
 ,
 				"obj-48::obj-110" : 				{
 					"parameter_longname" : "live.numbox[79]"
 				}
 ,
+				"obj-48::obj-113" : 				{
+					"parameter_longname" : "live.numbox[131]"
+				}
+,
 				"obj-48::obj-13" : 				{
-					"parameter_longname" : "live.numbox[96]"
+					"parameter_longname" : "live.numbox[153]"
 				}
 ,
 				"obj-48::obj-130" : 				{
@@ -4945,8 +4856,20 @@
 					"parameter_longname" : "live.numbox[75]"
 				}
 ,
+				"obj-48::obj-136" : 				{
+					"parameter_longname" : "live.numbox[151]"
+				}
+,
 				"obj-48::obj-139" : 				{
-					"parameter_longname" : "live.numbox[33]"
+					"parameter_longname" : "live.numbox[130]"
+				}
+,
+				"obj-48::obj-142" : 				{
+					"parameter_longname" : "live.numbox[129]"
+				}
+,
+				"obj-48::obj-145" : 				{
+					"parameter_longname" : "live.numbox[122]"
 				}
 ,
 				"obj-48::obj-146" : 				{
@@ -4962,7 +4885,7 @@
 				}
 ,
 				"obj-48::obj-163" : 				{
-					"parameter_longname" : "live.toggle[35]"
+					"parameter_longname" : "live.toggle[19]"
 				}
 ,
 				"obj-48::obj-166" : 				{
@@ -4971,6 +4894,14 @@
 ,
 				"obj-48::obj-169" : 				{
 					"parameter_longname" : "live.toggle[33]"
+				}
+,
+				"obj-48::obj-18" : 				{
+					"parameter_longname" : "live.numbox[99]"
+				}
+,
+				"obj-48::obj-185" : 				{
+					"parameter_longname" : "live.toggle[38]"
 				}
 ,
 				"obj-48::obj-22" : 				{
@@ -4990,11 +4921,7 @@
 				}
 ,
 				"obj-48::obj-35" : 				{
-					"parameter_longname" : "live.numbox[78]"
-				}
-,
-				"obj-48::obj-44" : 				{
-					"parameter_longname" : "live.numbox[77]"
+					"parameter_longname" : "live.numbox[101]"
 				}
 ,
 				"obj-48::obj-55" : 				{
@@ -5010,11 +4937,11 @@
 				}
 ,
 				"obj-48::obj-95" : 				{
-					"parameter_longname" : "live.numbox[111]"
+					"parameter_longname" : "live.numbox[74]"
 				}
 ,
 				"obj-48::obj-98" : 				{
-					"parameter_longname" : "live.numbox[76]"
+					"parameter_longname" : "live.numbox[32]"
 				}
 
 			}
@@ -5030,6 +4957,13 @@
 				"implicit" : 1
 			}
 , 			{
+				"name" : "Dangerous_2-Bus.maxpat",
+				"bootpath" : "/Volumes/Media/Git Repos/_GitHub/recall-sheets/Recall Sheets/patchers",
+				"patcherrelativepath" : ".",
+				"type" : "JSON",
+				"implicit" : 1
+			}
+, 			{
 				"name" : "STAM_SA-4000_MKII.maxpat",
 				"bootpath" : "/Volumes/Media/Git Repos/_GitHub/recall-sheets/Recall Sheets/patchers",
 				"patcherrelativepath" : ".",
@@ -5037,21 +4971,7 @@
 				"implicit" : 1
 			}
 , 			{
-				"name" : "UA_6176.maxpat",
-				"bootpath" : "/Volumes/Media/Git Repos/_GitHub/recall-sheets/Recall Sheets/patchers",
-				"patcherrelativepath" : ".",
-				"type" : "JSON",
-				"implicit" : 1
-			}
-, 			{
 				"name" : "UBK_Fatso.maxpat",
-				"bootpath" : "/Volumes/Media/Git Repos/_GitHub/recall-sheets/Recall Sheets/patchers",
-				"patcherrelativepath" : ".",
-				"type" : "JSON",
-				"implicit" : 1
-			}
-, 			{
-				"name" : "Vintech_x73i.maxpat",
 				"bootpath" : "/Volumes/Media/Git Repos/_GitHub/recall-sheets/Recall Sheets/patchers",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
