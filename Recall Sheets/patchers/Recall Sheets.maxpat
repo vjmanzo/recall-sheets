@@ -332,7 +332,7 @@
 					"patching_rect" : [ 1275.0, 561.5, 154.0, 59.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 4.0, 79.0, 749.0, 19.0 ],
-					"text" : "\"Media:/Git Repos/_GitHub/recall-sheets/Recall Sheets/patchers/_master_preset_backups/2023-4-5_6-19-34-PM preset_2.maxpresets\"",
+					"text" : "\"Media:/Git Repos/_GitHub/recall-sheets/Recall Sheets/patchers/_master_preset_backups/2023-5-30_11-59-37-AM preset_2.maxpresets\"",
 					"textcolor" : [ 0.384313725490196, 0.384313725490196, 0.384313725490196, 1.0 ]
 				}
 
@@ -558,7 +558,7 @@
 					"patching_rect" : [ 1104.5, 561.5, 167.0, 59.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 4.0, 68.0, 744.0, 19.0 ],
-					"text" : "\"Media:/Git Repos/_GitHub/recall-sheets/Recall Sheets/patchers/_master_preset_backups/2023-4-5_6-19-34-PM preset_1.maxpresets\"",
+					"text" : "\"Media:/Git Repos/_GitHub/recall-sheets/Recall Sheets/patchers/_master_preset_backups/2023-5-30_11-59-37-AM preset_1.maxpresets\"",
 					"textcolor" : [ 0.384313725490196, 0.384313725490196, 0.384313725490196, 1.0 ]
 				}
 
@@ -843,12 +843,13 @@
 , 			{
 				"box" : 				{
 					"id" : "obj-105",
+					"linecount" : 2,
 					"maxclass" : "message",
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 396.666666666666686, 321.0, 50.0, 22.0 ],
-					"text" : "store 5"
+					"patching_rect" : [ 396.666666666666686, 321.0, 50.0, 35.0 ],
+					"text" : "store 10"
 				}
 
 			}
@@ -921,7 +922,7 @@
 						}
 , 						{
 							"number" : 10,
-							"data" : [ 5, "obj-131", "textedit", "restoretext", "57. 140. 140. 140. 141. 12. 140. 12. 0. 0. 0. 0. 1. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.", 5, "obj-3", "textedit", "restoretext", "0. 0. 0. 0. 12. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.", 5, "obj-119", "textedit", "restoretext", "13. 1. 4. 4. 4. 5. 22. 1. 0. 1. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.", 5, "obj-127", "textedit", "restoretext", "1. 1. 1. 1. 1. 1. 1. 1. 12. 12. 8. 8. 8. 8. 8. 8. 8. 8. 6. 6. 6. 6. 6. 6. 6. 6. 0. 0. 0. 0. 0. 0.", 5, "obj-123", "textedit", "restoretext", "6. 0. 0. 0. 5.6 3. 5.9996 0. 0. 0. 6. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.", 5, "obj-143", "textedit", "restoretext", "9. 2. 3. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.", 5, "obj-139", "textedit", "restoretext", "9. 2. 3. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.", 5, "obj-135", "textedit", "restoretext", "9. 2. 3. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.", 5, "obj-151", "textedit", "restoretext", "9. 2. 3. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.", 5, "obj-147", "textedit", "restoretext", "9. 2. 3. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0." ]
+							"data" : [ 5, "obj-131", "textedit", "restoretext", "57. 140. 140. 140. 141. 12. 140. 12. 0. 0. 0. 0. 1. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.", 5, "obj-3", "textedit", "restoretext", "0. 0. 0. 0. 12. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.", 5, "obj-119", "textedit", "restoretext", "13. 1. 4. 4. 4. 5. 22. 1. 0. 1. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.", 5, "obj-127", "textedit", "restoretext", "0. 0. 1. 1. 0. 0. 1. 1. 7. 7. 12. 11. 0. 8. 12. 11. 0. 8. 8. 4. 7. 6. 8. 4. 7. 6. 0. 0. 0. 0. 0. 0.", 5, "obj-123", "textedit", "restoretext", "5. 0. 4. 1. 3.5 0. 5.0005 0. 4. 1. 4. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.", 5, "obj-143", "textedit", "restoretext", "9. 2. 3. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.", 5, "obj-139", "textedit", "restoretext", "9. 2. 3. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.", 5, "obj-135", "textedit", "restoretext", "9. 2. 3. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.", 5, "obj-151", "textedit", "restoretext", "9. 2. 3. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.", 5, "obj-147", "textedit", "restoretext", "9. 2. 3. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0." ]
 						}
 , 						{
 							"number" : 88,
@@ -1300,14 +1301,14 @@
 					"bordercolor" : [ 0.349019607843137, 0.349019607843137, 0.349019607843137, 0.0 ],
 					"fontsize" : 9.0,
 					"id" : "obj-131",
-					"linecount" : 2,
+					"linecount" : 3,
 					"maxclass" : "textedit",
 					"numinlets" : 1,
 					"numoutlets" : 4,
 					"outlettype" : [ "", "int", "", "" ],
 					"parameter_enable" : 0,
 					"patching_rect" : [ 1461.0, 1812.0, 171.0, 29.0 ],
-					"text" : "9. 2. 3. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.",
+					"text" : "57. 140. 140. 140. 141. 12. 140. 12. 0. 0. 0. 0. 1. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.",
 					"textcolor" : [ 0.384313725490196, 0.384313725490196, 0.384313725490196, 1.0 ]
 				}
 
@@ -1362,7 +1363,7 @@
 					"outlettype" : [ "", "int", "", "" ],
 					"parameter_enable" : 0,
 					"patching_rect" : [ 1283.0, 1528.0, 171.0, 29.0 ],
-					"text" : "1. 0. 1. 1. 1. 0. 1. 1. 9. 9. 0. 10. 11. 8. 0. 10. 11. 8. 1. 7. 7. 6. 1. 7. 7. 6. 0. 0. 0. 0. 0. 0.",
+					"text" : "0. 0. 1. 1. 0. 0. 1. 1. 7. 7. 12. 11. 0. 8. 12. 11. 0. 8. 8. 4. 7. 6. 8. 4. 7. 6. 0. 0. 0. 0. 0. 0.",
 					"textcolor" : [ 0.384313725490196, 0.384313725490196, 0.384313725490196, 1.0 ]
 				}
 
@@ -1417,7 +1418,7 @@
 					"outlettype" : [ "", "int", "", "" ],
 					"parameter_enable" : 0,
 					"patching_rect" : [ 1283.0, 1283.0, 171.0, 29.0 ],
-					"text" : "1. 0. 1. 1. 0. 1. 1. 1. 12. 12. 11. 8. 1. 12. 11. 8. 1. 12. 7. 4. 9. 6. 7. 4. 9. 6. 0. 0. 0. 0. 0. 0.",
+					"text" : "5. 0. 4. 1. 3.5 0. 5.0005 0. 4. 1. 4. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.",
 					"textcolor" : [ 0.384313725490196, 0.384313725490196, 0.384313725490196, 1.0 ]
 				}
 
@@ -1472,7 +1473,7 @@
 					"outlettype" : [ "", "int", "", "" ],
 					"parameter_enable" : 0,
 					"patching_rect" : [ 1297.0, 1020.0, 171.0, 29.0 ],
-					"text" : "1. 0. 1. 1. 1. 0. 1. 1. 9. 9. 12. 10. 10. 11. 12. 10. 10. 11. 1. 7. 8. 7. 1. 7. 8. 7. 0. 0. 0. 0. 0. 0.",
+					"text" : "13. 1. 4. 4. 4. 5. 22. 1. 0. 1. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.",
 					"textcolor" : [ 0.384313725490196, 0.384313725490196, 0.384313725490196, 1.0 ]
 				}
 
@@ -1539,7 +1540,7 @@
 					"outlettype" : [ "", "int", "", "" ],
 					"parameter_enable" : 0,
 					"patching_rect" : [ 1311.0, 793.0, 213.0, 39.0 ],
-					"text" : "2.5 7. 4. 1. 5.5 3. 2.50025 7. 4. 1. 5.5 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.",
+					"text" : "0. 0. 0. 0. 12. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.",
 					"textcolor" : [ 0.384313725490196, 0.384313725490196, 0.384313725490196, 1.0 ]
 				}
 
@@ -2391,7 +2392,7 @@
 					"patching_rect" : [ 288.0, 1510.0, 254.0, 104.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 369.0, 792.0, 1909.0, 23.0 ],
-					"text" : "Alternate EQ settings used on 4a Leads"
+					"text" : ".25 range for minimal contouring from the API"
 				}
 
 			}
@@ -2516,6 +2517,7 @@
 				"box" : 				{
 					"bordercolor" : [ 1.0, 0.619607843137255, 0.984313725490196, 1.0 ],
 					"id" : "obj-35",
+					"linecount" : 7,
 					"maxclass" : "textedit",
 					"numinlets" : 1,
 					"numoutlets" : 4,
@@ -2523,7 +2525,8 @@
 					"parameter_enable" : 0,
 					"patching_rect" : [ 288.0, 1263.0, 254.0, 104.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 369.0, 573.0, 1909.0, 23.0 ]
+					"presentation_rect" : [ 369.0, 573.0, 1909.0, 23.0 ],
+					"text" : "Signal from DAW should mostly light up the Comfy LED—if it's too hot out from DAW, set the External Output Device in the DAW to -3db and increase the Warmth on the Fatso by one; use a sine and a scope (like DigiCheck) to ensure that the output levels are equal/in-phase"
 				}
 
 			}
@@ -2604,11 +2607,11 @@
 					"lockeddragscroll" : 0,
 					"lockedsize" : 0,
 					"maxclass" : "bpatcher",
-					"name" : "blank.maxpat",
+					"name" : "UBK_Fatso.maxpat",
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"offset" : [ 0.0, 0.0 ],
-					"outlettype" : [ "" ],
+					"outlettype" : [ "clear" ],
 					"patching_rect" : [ 557.0, 1190.0, 697.0, 177.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 12.0, 598.0, 2297.0, 177.0 ],
@@ -2658,7 +2661,7 @@
 					"patching_rect" : [ 288.0, 1007.0, 254.0, 104.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 366.0, 336.0, 1909.0, 23.0 ],
-					"text" : ".5x range engaged -- Lo setting is shelfing everything below 50"
+					"text" : "about 3 - 4db of gain reduction - for  sparse, acoustic mixes, increase HPF to 185"
 				}
 
 			}
@@ -2738,7 +2741,7 @@
 					"lockeddragscroll" : 0,
 					"lockedsize" : 0,
 					"maxclass" : "bpatcher",
-					"name" : "API_5500.maxpat",
+					"name" : "STAM_SA-4000_MKII.maxpat",
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"offset" : [ 0.0, 0.0 ],
@@ -2765,7 +2768,7 @@
 					"patching_rect" : [ 551.666666666666742, 393.5, 286.750000000000057, 30.75 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 301.25, 3.0, 382.75, 28.0 ],
-					"text" : "Fatal Fire Lead Electric Guitar"
+					"text" : "2-Bus Mix Settings Pre-Master"
 				}
 
 			}
@@ -2773,6 +2776,7 @@
 				"box" : 				{
 					"bordercolor" : [ 1.0, 0.619607843137255, 0.984313725490196, 1.0 ],
 					"id" : "obj-22",
+					"linecount" : 4,
 					"maxclass" : "textedit",
 					"numinlets" : 1,
 					"numoutlets" : 4,
@@ -2780,8 +2784,9 @@
 					"parameter_enable" : 0,
 					"patching_rect" : [ 551.666666666666742, 426.25, 286.750000000000057, 135.75 ],
 					"presentation" : 1,
+					"presentation_linecount" : 2,
 					"presentation_rect" : [ 4.0, 33.0, 749.0, 65.0 ],
-					"text" : "Parker Fly recorded direct to RME audio interface"
+					"text" : "three-stage reamping approach: analog summing recorded back into DAW, out to STAM recorded back into DAW, then out to Fatso and API recorded back into DAW"
 				}
 
 			}
@@ -2834,7 +2839,7 @@
 						}
 , 						{
 							"number" : 10,
-							"data" : [ 5, "obj-22", "textedit", "restoretext", "three-stage reamping approach: analog summing into DAW, out to STAM back into DAW, then out to Fatso and API", 5, "obj-23", "textedit", "restoretext", "2-Bus Mix Settings Pre-Master", 5, "obj-100", "number", "int", 0, 5, "obj-91", "number", "int", 0, 5, "obj-82", "number", "int", 0, 5, "obj-73", "number", "int", 0, 5, "obj-64", "number", "int", 0, 5, "obj-55", "number", "int", 0, 5, "obj-44", "number", "int", 4, 5, "obj-36", "number", "int", 3, 5, "obj-28", "number", "int", 2, 5, "obj-12", "number", "int", 6, 5, "obj-54", "textedit", "restoretext", "", 5, "obj-63", "textedit", "restoretext", "", 5, "obj-99", "textedit", "restoretext", "", 5, "obj-90", "textedit", "restoretext", "", 5, "obj-81", "textedit", "restoretext", "", 5, "obj-72", "textedit", "restoretext", "", 5, "obj-43", "textedit", "restoretext", "", 5, "obj-35", "textedit", "restoretext", "", 5, "obj-27", "textedit", "restoretext", "about 3 - 4db of gain reduction - for  sparse, acoustic mixes, increase HPF to 185", 5, "obj-15", "textedit", "restoretext", "analog summing from DAW" ]
+							"data" : [ 5, "obj-22", "textedit", "restoretext", "three-stage reamping approach: analog summing recorded back into DAW, out to STAM recorded back into DAW, then out to Fatso and API recorded back into DAW", 5, "obj-23", "textedit", "restoretext", "2-Bus Mix Settings Pre-Master", 5, "obj-100", "number", "int", 0, 5, "obj-91", "number", "int", 0, 5, "obj-82", "number", "int", 0, 5, "obj-73", "number", "int", 0, 5, "obj-64", "number", "int", 0, 5, "obj-55", "number", "int", 0, 5, "obj-44", "number", "int", 4, 5, "obj-36", "number", "int", 3, 5, "obj-28", "number", "int", 2, 5, "obj-12", "number", "int", 6, 5, "obj-54", "textedit", "restoretext", "", 5, "obj-63", "textedit", "restoretext", "", 5, "obj-99", "textedit", "restoretext", "", 5, "obj-90", "textedit", "restoretext", "", 5, "obj-81", "textedit", "restoretext", "", 5, "obj-72", "textedit", "restoretext", "", 5, "obj-43", "textedit", "restoretext", ".25 range for minimal contouring from the API", 5, "obj-35", "textedit", "restoretext", "Signal from DAW should mostly light up the Comfy LED—if it's too hot out from DAW, set the External Output Device in the DAW to -3db and increase the Warmth on the Fatso by one; use a sine and a scope (like DigiCheck) to ensure that the output levels are equal/in-phase", 5, "obj-27", "textedit", "restoretext", "about 3 - 4db of gain reduction - for  sparse, acoustic mixes, increase HPF to 185", 5, "obj-15", "textedit", "restoretext", "analog summing from DAW" ]
 						}
 , 						{
 							"number" : 88,
@@ -2877,7 +2882,6 @@
 				"box" : 				{
 					"bordercolor" : [ 1.0, 0.619607843137255, 0.984313725490196, 1.0 ],
 					"id" : "obj-15",
-					"linecount" : 2,
 					"maxclass" : "textedit",
 					"numinlets" : 1,
 					"numoutlets" : 4,
@@ -2886,7 +2890,7 @@
 					"patching_rect" : [ 288.0, 768.0, 254.0, 104.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 362.0, 102.0, 1909.0, 23.0 ],
-					"text" : "going for about 3db of gain reduction in the compressor section"
+					"text" : "analog summing from DAW"
 				}
 
 			}
@@ -2966,7 +2970,7 @@
 					"lockeddragscroll" : 0,
 					"lockedsize" : 0,
 					"maxclass" : "bpatcher",
-					"name" : "UBK_Fatso.maxpat",
+					"name" : "Dangerous_2-Bus.maxpat",
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"offset" : [ 0.0, 0.0 ],
@@ -4663,53 +4667,61 @@
 			}
  ],
 		"parameters" : 		{
-			"obj-1::obj-128" : [ "live.numbox[87]", "live.numbox", 0 ],
-			"obj-1::obj-19" : [ "live.numbox[24]", "live.numbox", 0 ],
-			"obj-1::obj-27" : [ "live.numbox[39]", "live.numbox", 0 ],
-			"obj-1::obj-270" : [ "live.numbox[93]", "live.numbox", 0 ],
-			"obj-1::obj-278" : [ "live.numbox[2]", "live.numbox", 0 ],
-			"obj-1::obj-301" : [ "live.numbox[28]", "live.numbox", 0 ],
-			"obj-1::obj-428" : [ "live.numbox[31]", "live.numbox[4]", 0 ],
-			"obj-1::obj-461" : [ "live.numbox[140]", "live.numbox[4]", 0 ],
-			"obj-1::obj-494" : [ "live.numbox[6]", "live.numbox[4]", 0 ],
-			"obj-1::obj-520" : [ "live.numbox[91]", "live.numbox[4]", 0 ],
-			"obj-1::obj-550" : [ "live.numbox[139]", "live.numbox[4]", 0 ],
-			"obj-1::obj-571" : [ "live.numbox[92]", "live.numbox[4]", 0 ],
+			"obj-1::obj-136" : [ "live.numbox[12]", "live.numbox", 0 ],
+			"obj-1::obj-146" : [ "live.toggle", "live.toggle", 0 ],
+			"obj-1::obj-15" : [ "live.numbox[13]", "live.toggle", 0 ],
+			"obj-1::obj-154" : [ "live.toggle[1]", "live.toggle", 0 ],
+			"obj-1::obj-157" : [ "live.toggle[2]", "live.toggle", 0 ],
+			"obj-1::obj-163" : [ "live.toggle[4]", "live.toggle", 0 ],
+			"obj-1::obj-17" : [ "live.numbox[73]", "live.numbox", 0 ],
+			"obj-1::obj-20" : [ "live.numbox[1]", "live.toggle", 0 ],
+			"obj-1::obj-22" : [ "live.text[5]", "live.text", 0 ],
+			"obj-1::obj-23" : [ "live.toggle[8]", "live.toggle", 0 ],
+			"obj-1::obj-24" : [ "live.text[6]", "live.text", 0 ],
+			"obj-1::obj-25" : [ "live.text[4]", "live.text", 0 ],
+			"obj-1::obj-26" : [ "live.text[10]", "live.text", 0 ],
+			"obj-1::obj-28" : [ "live.toggle[9]", "live.toggle", 0 ],
+			"obj-1::obj-38" : [ "live.toggle[10]", "live.toggle", 0 ],
+			"obj-1::obj-40" : [ "live.toggle[11]", "live.toggle", 0 ],
+			"obj-1::obj-42" : [ "live.numbox[10]", "live.toggle", 0 ],
+			"obj-1::obj-45" : [ "live.toggle[13]", "live.toggle", 0 ],
+			"obj-1::obj-48" : [ "live.toggle[14]", "live.toggle", 0 ],
+			"obj-1::obj-5" : [ "live.toggle[6]", "live.toggle", 0 ],
+			"obj-1::obj-50" : [ "live.numbox[31]", "live.toggle", 0 ],
+			"obj-1::obj-52" : [ "live.toggle[16]", "live.toggle", 0 ],
 			"obj-1::obj-6" : [ "live.text[1]", "live.text", 0 ],
 			"obj-1::obj-7" : [ "live.text[2]", "live.text", 0 ],
-			"obj-32::obj-101" : [ "live.numbox[5]", "live.numbox", 0 ],
-			"obj-32::obj-104" : [ "live.numbox[29]", "live.numbox", 0 ],
-			"obj-32::obj-107" : [ "live.numbox[67]", "live.numbox", 0 ],
-			"obj-32::obj-110" : [ "live.numbox[8]", "live.numbox", 0 ],
 			"obj-32::obj-113" : [ "live.numbox[53]", "live.numbox", 0 ],
-			"obj-32::obj-13" : [ "live.numbox", "live.numbox", 0 ],
 			"obj-32::obj-130" : [ "live.numbox[42]", "live.numbox", 0 ],
 			"obj-32::obj-133" : [ "live.numbox[11]", "live.numbox", 0 ],
 			"obj-32::obj-136" : [ "live.numbox[116]", "live.numbox", 0 ],
 			"obj-32::obj-139" : [ "live.numbox[52]", "live.numbox", 0 ],
 			"obj-32::obj-142" : [ "live.numbox[14]", "live.numbox", 0 ],
 			"obj-32::obj-145" : [ "live.numbox[15]", "live.numbox", 0 ],
-			"obj-32::obj-146" : [ "live.toggle", "live.toggle", 0 ],
-			"obj-32::obj-154" : [ "live.toggle[1]", "live.toggle", 0 ],
-			"obj-32::obj-157" : [ "live.toggle[10]", "live.toggle", 0 ],
-			"obj-32::obj-163" : [ "live.toggle[4]", "live.toggle", 0 ],
-			"obj-32::obj-166" : [ "live.toggle[7]", "live.toggle", 0 ],
-			"obj-32::obj-169" : [ "live.toggle[8]", "live.toggle", 0 ],
+			"obj-32::obj-17" : [ "live.numbox[16]", "live.numbox", 0 ],
 			"obj-32::obj-18" : [ "live.numbox[47]", "live.numbox", 0 ],
-			"obj-32::obj-185" : [ "live.toggle[23]", "live.toggle", 0 ],
 			"obj-32::obj-22" : [ "live.text[43]", "live.text", 0 ],
 			"obj-32::obj-24" : [ "live.text[12]", "live.text", 0 ],
 			"obj-32::obj-25" : [ "live.text[17]", "live.text", 0 ],
 			"obj-32::obj-26" : [ "live.text[3]", "live.text", 0 ],
-			"obj-32::obj-35" : [ "live.numbox[94]", "live.numbox", 0 ],
-			"obj-32::obj-44" : [ "live.numbox[66]", "live.numbox", 0 ],
-			"obj-32::obj-55" : [ "live.numbox[60]", "live.numbox", 0 ],
 			"obj-32::obj-6" : [ "live.text[7]", "live.text", 0 ],
-			"obj-32::obj-60" : [ "live.toggle[11]", "live.toggle", 0 ],
+			"obj-32::obj-65" : [ "live.numbox[18]", "live.numbox", 0 ],
 			"obj-32::obj-7" : [ "live.text[23]", "live.text", 0 ],
-			"obj-32::obj-92" : [ "live.numbox[63]", "live.numbox", 0 ],
-			"obj-32::obj-95" : [ "live.numbox[70]", "live.numbox", 0 ],
-			"obj-32::obj-98" : [ "live.numbox[44]", "live.numbox", 0 ],
+			"obj-32::obj-71" : [ "live.numbox[72]", "live.numbox", 0 ],
+			"obj-40::obj-128" : [ "live.numbox[77]", "live.numbox", 0 ],
+			"obj-40::obj-19" : [ "live.numbox[95]", "live.numbox", 0 ],
+			"obj-40::obj-27" : [ "live.numbox[78]", "live.numbox", 0 ],
+			"obj-40::obj-270" : [ "live.numbox[45]", "live.numbox", 0 ],
+			"obj-40::obj-278" : [ "live.numbox[76]", "live.numbox", 0 ],
+			"obj-40::obj-301" : [ "live.numbox[58]", "live.numbox", 0 ],
+			"obj-40::obj-428" : [ "live.numbox[103]", "live.numbox[4]", 0 ],
+			"obj-40::obj-461" : [ "live.numbox[61]", "live.numbox[4]", 0 ],
+			"obj-40::obj-494" : [ "live.numbox[102]", "live.numbox[4]", 0 ],
+			"obj-40::obj-520" : [ "live.numbox[59]", "live.numbox[4]", 0 ],
+			"obj-40::obj-550" : [ "live.numbox[46]", "live.numbox[4]", 0 ],
+			"obj-40::obj-571" : [ "live.numbox[48]", "live.numbox[4]", 0 ],
+			"obj-40::obj-6" : [ "live.text[25]", "live.text", 0 ],
+			"obj-40::obj-7" : [ "live.text[13]", "live.text", 0 ],
 			"obj-48::obj-101" : [ "live.numbox[80]", "live.numbox", 0 ],
 			"obj-48::obj-104" : [ "live.numbox[152]", "live.numbox", 0 ],
 			"obj-48::obj-107" : [ "live.numbox[84]", "live.numbox", 0 ],
@@ -4748,6 +4760,30 @@
 			}
 ,
 			"parameter_overrides" : 			{
+				"obj-1::obj-15" : 				{
+					"parameter_longname" : "live.numbox[13]"
+				}
+,
+				"obj-1::obj-17" : 				{
+					"parameter_longname" : "live.numbox[73]"
+				}
+,
+				"obj-1::obj-20" : 				{
+					"parameter_longname" : "live.numbox[1]"
+				}
+,
+				"obj-1::obj-26" : 				{
+					"parameter_longname" : "live.text[10]"
+				}
+,
+				"obj-1::obj-42" : 				{
+					"parameter_longname" : "live.numbox[10]"
+				}
+,
+				"obj-1::obj-50" : 				{
+					"parameter_longname" : "live.numbox[31]"
+				}
+,
 				"obj-1::obj-6" : 				{
 					"parameter_longname" : "live.text[1]"
 				}
@@ -4784,16 +4820,8 @@
 					"parameter_longname" : "live.numbox[15]"
 				}
 ,
-				"obj-32::obj-166" : 				{
-					"parameter_longname" : "live.toggle[7]"
-				}
-,
 				"obj-32::obj-18" : 				{
 					"parameter_longname" : "live.numbox[47]"
-				}
-,
-				"obj-32::obj-185" : 				{
-					"parameter_longname" : "live.toggle[23]"
 				}
 ,
 				"obj-32::obj-22" : 				{
@@ -4812,16 +4840,60 @@
 					"parameter_longname" : "live.text[3]"
 				}
 ,
-				"obj-32::obj-44" : 				{
-					"parameter_longname" : "live.numbox[66]"
-				}
-,
 				"obj-32::obj-6" : 				{
 					"parameter_longname" : "live.text[7]"
 				}
 ,
 				"obj-32::obj-7" : 				{
 					"parameter_longname" : "live.text[23]"
+				}
+,
+				"obj-40::obj-128" : 				{
+					"parameter_longname" : "live.numbox[77]"
+				}
+,
+				"obj-40::obj-19" : 				{
+					"parameter_longname" : "live.numbox[95]"
+				}
+,
+				"obj-40::obj-27" : 				{
+					"parameter_longname" : "live.numbox[78]"
+				}
+,
+				"obj-40::obj-270" : 				{
+					"parameter_longname" : "live.numbox[45]"
+				}
+,
+				"obj-40::obj-278" : 				{
+					"parameter_longname" : "live.numbox[76]"
+				}
+,
+				"obj-40::obj-301" : 				{
+					"parameter_longname" : "live.numbox[58]"
+				}
+,
+				"obj-40::obj-428" : 				{
+					"parameter_longname" : "live.numbox[103]"
+				}
+,
+				"obj-40::obj-461" : 				{
+					"parameter_longname" : "live.numbox[61]"
+				}
+,
+				"obj-40::obj-494" : 				{
+					"parameter_longname" : "live.numbox[102]"
+				}
+,
+				"obj-40::obj-520" : 				{
+					"parameter_longname" : "live.numbox[59]"
+				}
+,
+				"obj-40::obj-550" : 				{
+					"parameter_longname" : "live.numbox[46]"
+				}
+,
+				"obj-40::obj-571" : 				{
+					"parameter_longname" : "live.numbox[48]"
 				}
 ,
 				"obj-48::obj-101" : 				{
@@ -4957,13 +5029,6 @@
 				"implicit" : 1
 			}
 , 			{
-				"name" : "Dangerous_2-Bus.maxpat",
-				"bootpath" : "/Volumes/Media/Git Repos/_GitHub/recall-sheets/Recall Sheets/patchers",
-				"patcherrelativepath" : ".",
-				"type" : "JSON",
-				"implicit" : 1
-			}
-, 			{
 				"name" : "STAM_SA-4000_MKII.maxpat",
 				"bootpath" : "/Volumes/Media/Git Repos/_GitHub/recall-sheets/Recall Sheets/patchers",
 				"patcherrelativepath" : ".",
@@ -4971,7 +5036,21 @@
 				"implicit" : 1
 			}
 , 			{
+				"name" : "UA_6176.maxpat",
+				"bootpath" : "/Volumes/Media/Git Repos/_GitHub/recall-sheets/Recall Sheets/patchers",
+				"patcherrelativepath" : ".",
+				"type" : "JSON",
+				"implicit" : 1
+			}
+, 			{
 				"name" : "UBK_Fatso.maxpat",
+				"bootpath" : "/Volumes/Media/Git Repos/_GitHub/recall-sheets/Recall Sheets/patchers",
+				"patcherrelativepath" : ".",
+				"type" : "JSON",
+				"implicit" : 1
+			}
+, 			{
+				"name" : "Vintech_x73i.maxpat",
 				"bootpath" : "/Volumes/Media/Git Repos/_GitHub/recall-sheets/Recall Sheets/patchers",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
